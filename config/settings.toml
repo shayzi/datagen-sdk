@@ -1,0 +1,9 @@
+[default]
+
+url__base = "https://api.prod.datagen.tech"
+batch_size = 2000
+concurrent_calls = 30
+
+[stage]
+
+url__base = "https://api.stage.datagen.tech"

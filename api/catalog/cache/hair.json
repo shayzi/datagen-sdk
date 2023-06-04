@@ -1,0 +1,4588 @@
+{
+	"003cbe9f-3d2a-409c-bcfe-bfa085694199": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"00cb3727-952f-4584-9699-ea1b1eba1175": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"02dccf00-d34a-4175-903d-6ece11e73ece": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"04bbcbbd-7081-4db4-b68f-8894fc8a0763": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"high_top_cut"
+		]
+	},
+	"058c33e9-c287-45c3-bf32-d6237881344f": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"layered"
+		]
+	},
+	"05d6641a-5219-4b46-bbdf-da69f42f158d": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"06162df8-25a1-4750-a9ee-13c5af71d9cd": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"064d7bcc-7ef2-40e5-aeba-3078aba828b5": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"bangs",
+			"bob",
+			"ponytail"
+		]
+	},
+	"0885f0b3-512c-4f30-8a4b-060b2af5bd5a": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"0a95ccd1-6ef4-4220-9731-2f196612ccb3": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"0ab5f327-6768-474d-ae30-f0e4f848d35d": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"0c6b4fd7-5ea7-46d9-b450-03061ccc29c5": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"afro",
+			"high_top_cut"
+		]
+	},
+	"0e6decae-edce-44dd-b51d-1b489a207978": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"0f9d8963-f8a0-4243-876a-94441207cf16": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"10d03b7a-ecb6-4433-a8d5-54584286dcf7": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"1179db2b-990a-4445-9c7c-6d91826ea81a": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"137a7a43-f18d-4895-a96d-0715ce85410f": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"145e68e9-3fdd-46e2-be0d-0de412fea589": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain",
+			"layered"
+		]
+	},
+	"14c8f12d-4118-4463-9dcc-a57851415eb2": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"14e67d8f-ff37-4aaa-93bc-92a7c397a701": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"afro",
+			"high_top_cut"
+		]
+	},
+	"15262832-b3b0-481b-b937-db3e074a9050": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"16bc5541-72cd-441b-8037-a0162aac378a": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"17e17698-bbdc-46c6-96bd-085ea67bf97a": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"hair_down"
+		]
+	},
+	"1887b542-f628-45cd-92e2-31570fb57dea": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"198023f9-cab2-4568-be3f-38c35378bbb2": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"1bbb9b57-3bc3-4c73-afe4-d375e6dabb2c": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"1de194f8-3e62-4cb0-9bea-328b0eab88b4": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"1e746cfc-26fd-4e8e-94f6-49352b1221e8": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"hair_down"
+		]
+	},
+	"1ea89ad7-6717-4701-ae3d-c3f3cc14edf2": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"1f7a978e-4bea-4cec-8360-6800d69674ab": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "chin",
+		"style": [
+			"afro"
+		]
+	},
+	"20042105-8617-4eb5-aa78-2892b9dcb984": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"2297c874-2e31-42aa-a056-16c7ebcf8701": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"bob",
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"2355246a-dda8-4f15-af4d-5c5423a62618": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"258bcde1-103a-40b8-aa1e-b7fc6f807894": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"hair_down"
+		]
+	},
+	"27af9259-f747-494b-a133-57a47df2664b": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"bangs",
+			"ponytail"
+		]
+	},
+	"287f1c25-0107-443e-aa4a-2b4e3b09fa43": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"297c5fab-ea3f-40dd-85a8-28e9c7ce92e4": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"undefined"
+		]
+	},
+	"29e89d5d-b006-4a77-8177-6427388b0dea": {
+		"age_group_match": [
+			"adult"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"2c0272b0-3856-45b1-b79e-bf1ed0bcd0d5": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"2cfff597-0e5c-4999-830d-8b7e5966469e": {
+		"age_group_match": [
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"bangs",
+			"crew_cut"
+		]
+	},
+	"2d8f82cc-8c66-4f7a-a421-bb28cb7eed21": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"2dd8529d-818b-41f8-b388-a7339720a328": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding"
+		]
+	},
+	"2eca82f4-894a-4dbd-9129-a551ec3835b7": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"layered"
+		]
+	},
+	"31302289-9010-47cb-9a8e-97404a613749": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"31a0ea26-5afc-4995-be1b-82c1e7df8c91": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"hair_down"
+		]
+	},
+	"3261b661-0365-4c7e-9011-564a712dc0d7": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"334d30bf-5b6f-41a1-83de-bbab20962166": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"35d1c6c0-a192-4f9a-8dd3-1ebda476d69c": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"38b2e4cc-f0a0-48aa-9515-8ee1a8a0eab5": {
+		"age_group_match": [
+			"adult"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "tailbone",
+		"style": [
+			"hair_down"
+		]
+	},
+	"38f64664-9fa3-4223-b9f1-5514307ffc3a": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"38ff3a6d-7d40-4085-bcb8-f34fbebfe9a0": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"3bfab5ce-e58d-4988-a507-d6693cf9cdaf": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"afro"
+		]
+	},
+	"3d07820b-6fe3-46f7-b86d-32392099e7cb": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"bun"
+		]
+	},
+	"3e4c28ae-71de-4b72-9987-e98b080d6ff1": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"pulled_back"
+		]
+	},
+	"3ecf28e1-a0cc-460d-a4c3-7a99808ceebe": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"3f549259-7ba9-4971-bb58-cdcd5e0b559d": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"428f4576-64a3-4b77-b823-2f0b9cdf8b2d": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"44f5a874-8406-48a6-8542-766cff0c238b": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"451761da-b42d-40e3-8212-902a6c366744": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"4695fc87-dfde-49c9-ba00-dc92c841f8ab": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"curtain",
+			"layered"
+		]
+	},
+	"46e51ad4-0263-4b10-bbfc-45c4d04bc13d": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"4734cccf-d794-458e-a335-9756512cc8a5": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"478dc9a9-e853-48f4-b86a-c0395ec036af": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"4871769e-b5f6-4129-9f07-afa74c401bca": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain"
+		]
+	},
+	"4a106b43-1c2f-455b-a61c-c7082862b304": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"4ab19601-64e8-4a2a-8fe7-acebf72d5b93": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"4c473d32-f77f-4bc3-a99d-5ebc856a8e43": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"4ccbf665-8c74-4f3e-9bf0-2e1bdc5fa002": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"4d1741a0-3dc8-46eb-9827-4b945c1f345e": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"undefined"
+		]
+	},
+	"4d22cf86-3c6b-449e-9cde-deac5d606329": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"4fdd1719-29fe-429f-97f4-f2234ce454cf": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"50fccafe-4bd2-47d7-90bc-234cce710693": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"51be5da6-92fb-4684-9936-82762f386654": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"layered"
+		]
+	},
+	"51cfc652-f90b-4850-aa5a-0128a07f0f89": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"semantic_name": "hair",
+		"style": [
+			"bob",
+			"curtain",
+			"hair_down"
+		],
+		"texture": "straight"
+	},
+	"522dc8a0-c52a-48ed-9a53-a75ef7c4fb11": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"afro",
+			"high_top_cut"
+		]
+	},
+	"5237dd20-490e-46f8-8975-44ae8eadd80a": {
+		"age_group_match": [
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"bob"
+		]
+	},
+	"533d69ae-b6c8-442e-af96-f69a6993b70c": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"54de3fc3-20ca-42fb-87ed-6faa9e146222": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"5524e278-6c22-44fd-89f3-ccf14234ab5b": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"55afcb6b-fe61-4b60-b589-6eb08245c392": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"55f620e2-c68b-48e8-8cf8-84aeb63c6fdf": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"bangs",
+			"ponytail"
+		]
+	},
+	"56293d37-b1d8-468b-8894-dd8d2a0d4869": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"5650ec29-f192-4a94-884e-9940f52fa3c4": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"bob",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"56e0a34c-8ff1-438d-9541-dd0faf809be4": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"5bf83b6d-de3a-4bfc-a94f-6e421dbcd533": {
+		"age_group_match": [
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"5e1b23fd-23b6-4a58-ab0a-31494e40fb5e": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"5f6131ff-c9b1-4ab7-9aaa-13133f1e03b9": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut",
+			"undefined"
+		]
+	},
+	"5f939d28-a329-49fa-99a0-fa73ec20051a": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"639d5da7-ffa0-4570-8df5-2010557c24d0": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"659d17e6-6845-4189-a26b-c26ef489ffaf": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"65c4a99a-7bd9-4e2f-a9d1-7fd014e977cd": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"66adc5f1-c3b1-48f7-955d-6a7b96a9746f": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"66c2e9ec-0d94-427b-be4f-619a5298c873": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"674cfabe-bcb6-45e0-a586-7619e3940064": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"690efa13-f6c2-4b81-8e70-d2be11e9f5b0": {
+		"age_group_match": [
+			"adult"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"6ca4f639-7aa3-4d42-9014-f28304e54bad": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"curtain",
+			"layered"
+		]
+	},
+	"6f1cd00d-d235-407e-aa2c-c93f825e66b5": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"6fcaf25c-0b1a-498a-aca3-0553948195b6": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"6fe0ef56-7c9f-40ee-bfa9-80e03038807d": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"curtain",
+			"layered"
+		]
+	},
+	"6ffea888-2bd7-4828-a65f-08996fddc1f4": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"70640241-1e98-4042-9563-4589fad204a9": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "undefined",
+		"style": [
+			"balding"
+		]
+	},
+	"715c9687-c1b5-45b3-b3c7-d91844784861": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"78f0b01b-16e1-4638-854f-ef007e946b79": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"78f5b381-e429-4aab-9523-9e1fce8c75fd": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"79e72e16-d176-4a80-bab0-83af9957b0c8": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob"
+		]
+	},
+	"7a598fc4-fcca-400f-a069-935e219c9d02": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"7c01ca25-049a-417a-bb37-509a64925ae4": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"7dee2fa2-f8aa-4dbd-bc9d-24bacc9eb786": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"bob",
+			"curtain",
+			"layered"
+		]
+	},
+	"7e461597-5009-4e1a-88f1-2e1e837d8c45": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"hair_down"
+		]
+	},
+	"7f5d8f9b-aa95-495c-9f5a-82823c042937": {
+		"age_group_match": [
+			"old"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "undefined",
+		"style": [
+			"afro",
+			"balding"
+		]
+	},
+	"7f632f90-a770-4be4-a791-636e3a9fa53e": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"810931ac-72dc-4ce7-8666-3e00539a9ec6": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob"
+		]
+	},
+	"820c1d82-0971-42fb-9f61-15154c81e763": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "ear",
+		"style": [
+			"afro"
+		]
+	},
+	"8249fcb8-d929-4c34-805c-6307255a1ea1": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut",
+			"undefined"
+		]
+	},
+	"83a89fae-6f42-4c80-a86b-dff0ef14e969": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"pulled_back"
+		]
+	},
+	"85dd3ad9-a84b-456c-bf9f-255e625ca09e": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bangs",
+			"bob",
+			"hair_down"
+		]
+	},
+	"869299fb-2f26-47e2-87ac-7d82d948c107": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"86bb3e73-ca86-426c-b26d-b51cc60b9be9": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"88514a25-5620-4433-9d59-b2b455d7a0a1": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"bob",
+			"layered"
+		]
+	},
+	"891d0b93-2e4d-4537-bbda-777c797b3ce3": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"89542a51-c36e-4ed1-b6d9-78ff423e1c9e": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"89a75d4e-856a-44fa-ac89-599850b5941b": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"8ae4be2d-cdb2-4f88-b677-c92bb187290c": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "mid_back",
+		"style": [
+			"bangs",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"8c4bc1bf-ae07-4c99-8148-e415c506acb0": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"8dda0000-5fa6-46fe-add4-837cdc2e6332": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"8e11e79a-a4db-476e-9774-fab6e44e9ba8": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"8e477d53-015a-4b36-a2db-327aed4a99c3": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"hair_down"
+		]
+	},
+	"8fdf07d0-1fb7-4c63-85b9-545455148b36": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"high_top_cut"
+		]
+	},
+	"90c6d9d0-9620-4ab9-86c1-d05ba207c6c6": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"90ca7c50-2baa-4d02-92d2-23b500cc5006": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"90e8451e-2dbf-4b9e-9715-0ca2d08c7e8b": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"920a5f51-4c5c-496c-8bee-8594bff7b953": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"hair_down"
+		]
+	},
+	"941e3e96-e20f-42a7-90dc-e19ded14c748": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"94ba70a8-adc3-46d0-8f00-c7520cb401bb": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bun"
+		]
+	},
+	"960644ec-5f4d-4f83-a751-bae05919ec15": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"9629cbfd-6129-4a1f-9629-efdae0d2b182": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"9732fb5e-96df-464c-9e4e-64db4c236328": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "mid_back",
+		"style": [
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"97e01cc9-e032-45f0-a724-f41d1a583fb5": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"layered"
+		]
+	},
+	"98d335cf-5cfe-4247-be6e-cd849b126502": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"997c2b87-f8a6-455f-a372-97b37f5cfcc4": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"9a9565d7-1df1-46d3-90b7-730f85af27de": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"9ab770fe-cae4-4ff7-97d7-1a0b71ffa8ce": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"9d77d8da-fd60-4e8a-b8b4-d26ca329f27a": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"9df67cee-4513-4a0e-bf64-57ec58c21b2c": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"9e594b14-fede-4286-a28a-d602647b5a54": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"9ebbb812-7a76-439a-9fcb-c1d6656d416a": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"layered"
+		]
+	},
+	"9f4eb5ba-44d4-4353-84f9-49abf12d0656": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"undefined"
+		]
+	},
+	"a208846c-eb2d-4eef-9072-e3d66727fdc0": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"a3b4610f-82b3-4506-8065-68fbb20b4ec3": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"a3f2a61b-5014-4427-81ed-902b156ec87e": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "mid_back",
+		"style": [
+			"layered"
+		]
+	},
+	"a42fcf93-037a-4601-ba62-033d7238b779": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain",
+			"layered"
+		]
+	},
+	"a580e06f-7605-4798-ac9c-e58c848bcb10": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"a6481eac-eeee-4b99-9092-02fc0281c5c0": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"a6592100-ab92-442e-bcb7-51fafb84d899": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"hair_down",
+			"layered"
+		]
+	},
+	"a7dfce66-b081-4d76-8fb9-9ba42140fc74": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"afro"
+		]
+	},
+	"a8ebf49f-1004-4a98-9b4a-a7beddd3f034": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"a90da2f1-8a1d-4bf3-8417-3536f68e81ee": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "ear",
+		"style": [
+			"curtain"
+		]
+	},
+	"a94b86e0-43ae-4a3a-901b-cd5e3a76eadc": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"afro",
+			"crew_cut"
+		]
+	},
+	"a9dbed37-e2da-46f5-a8bf-99612c100f2c": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"aa75cae9-e1f4-4454-9718-7b55ed8bd326": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"aa8e93ea-8f6a-4f8f-9c48-3bc984463186": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "armpit",
+		"style": [
+			"hair_down",
+			"layered"
+		]
+	},
+	"ac72d320-f205-4f67-8a92-1a55c698eecf": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"ad0630ed-b3bd-448b-bd5a-9a3997dcbeb9": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "mid_back",
+		"style": [
+			"afro"
+		]
+	},
+	"ad243a42-2e34-48d7-9242-8bd8a826153a": {
+		"age_group_match": [
+			"adult"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"ae042ee4-bd3b-4fe7-ade4-f356493796c3": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"afro",
+			"crew_cut"
+		]
+	},
+	"b2a67e96-26c8-41de-878f-bb38ad81ff13": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"afro",
+			"crew_cut",
+			"undefined"
+		]
+	},
+	"b35599b4-cfd9-4f2e-93de-9c71cb8f9966": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"bob"
+		]
+	},
+	"b374f996-a8ad-449c-8e48-70cd8f73877e": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"bun"
+		]
+	},
+	"b504d0d7-feff-4348-bb04-91eb54bd764c": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"curtain"
+		]
+	},
+	"b52baa24-e2fc-466c-a7c1-a63df7f2c82f": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"b5e14da9-4250-4137-820b-1d3805f79839": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"b758f5b7-4f28-4aca-854d-e9ca88d405dd": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"b76ea17b-14de-4c02-beae-33dc09e512e2": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"b7bc94e3-ecd2-4c99-923d-f6e9bda6a772": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"b8467165-27e0-4e37-93f2-a595a173d6e8": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "undefined",
+		"style": [
+			"balding"
+		]
+	},
+	"b9127cbb-8280-4f41-8a98-bcd0704960ca": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"curtain"
+		]
+	},
+	"b93c1aa9-af10-487b-a25e-0e3cfd5545c0": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"ba4ec124-a816-47d3-96e6-341c97724b50": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"bb2780de-3ce4-400d-90c4-b8df62c67e7d": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"bba8431c-aa52-42c6-9a34-7388e298c596": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"bc043827-35a5-4680-8c5c-e3c23dde15d9": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"bc5640a9-6e7a-49e9-a280-568f5d1f489d": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"c110250d-aa99-4636-bf53-925e294a88c3": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"c33945bb-12a6-41a3-a19d-c5f3fafd943c": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"c82a0f66-234e-490d-8c53-9a665e4c9fff": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"ca1decca-ad8e-48f4-bf61-553779075298": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"caa8ff33-3794-4341-b1f2-f9d85dcce249": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "armpit",
+		"style": [
+			"bangs",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"caaf9b28-007c-49c6-a6d7-9b99f82349a9": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"cb7f5afa-70ba-4c8c-a68b-c3bac225e3dd": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"cc1ee8f9-1740-4a78-ba77-011620e5c0e9": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"cdbe3daf-a180-4170-93e2-5dffcd59cbdb": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"ce165c6e-f0a3-4daf-ada1-48f72e6eba2d": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"ced8a561-92d0-4cd6-a781-6883e21be08b": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"bun"
+		]
+	},
+	"d2949825-bea6-4a4e-9c4c-6e95e47c03d3": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob"
+		]
+	},
+	"d39eafdf-4fd3-42dc-ae5f-14d7f765d892": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"afro",
+			"crew_cut"
+		]
+	},
+	"d3b0c073-9277-4935-8c5c-f471eedbe9b4": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"d47f3305-fc8c-4ad1-b6b7-849d78130e6a": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"d5dcffc9-a598-43b5-8d8e-f6797631f37b": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"curtain",
+			"layered",
+			"ponytail",
+			"pulled_back"
+		]
+	},
+	"d5ed1409-f401-41bf-8edd-579eead817a4": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"d695ffab-3a14-4d6f-9912-a98eb46ad813": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"d98fdab0-ab37-404e-b9ff-57d11d50d8a9": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "ear",
+		"style": [
+			"high_top_cut"
+		]
+	},
+	"d9c16c9e-3b96-4a7b-9e8c-76a23ea1e689": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob"
+		]
+	},
+	"d9c2fbb3-5536-480f-9a76-6dec5c99be73": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"dd8fb393-0561-4a00-aa56-4db1d0122ae8": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"e377d802-6509-48f7-aac4-5b30c046d272": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"e52ab0a9-e835-417a-a9d9-fc08693b9c00": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bangs",
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"e54ce509-7387-4c6c-9ee5-199413b4c3ab": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"e5f8381b-28ce-4984-bb3a-9793336ddd0e": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"e6bc88cf-4fcc-4d00-88fe-d7cc6484cddc": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain",
+			"layered"
+		]
+	},
+	"e6f58e68-e61e-429d-947b-ba83bad98e8e": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"e98da6b0-32f9-4a45-95aa-8d04c133b9e8": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"afro",
+			"layered"
+		]
+	},
+	"e9a6bc47-af58-4c4b-b3ef-ff8ecf65d3d6": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female",
+			"male"
+		],
+		"length": "undefined",
+		"style": [
+			"pulled_back"
+		]
+	},
+	"e9ab5a60-a926-4c92-8ddd-eafe2d81bc51": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob"
+		]
+	},
+	"ec189f64-6160-4a6d-8a62-2e9720ca6b57": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"edfc1c28-504c-461a-9ffd-dc1e781dec75": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"curtain",
+			"hair_down"
+		]
+	},
+	"ee7a9137-0289-4e13-8643-a77a2f571ade": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"ef4bedf9-0ce5-40a9-b94f-1d3b127ccf87": {
+		"age_group_match": [
+			"adult"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"bob",
+			"curtain",
+			"layered"
+		]
+	},
+	"ef64fbe0-6f9d-4ba8-bfef-49fedd1a8d68": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "undefined",
+		"style": [
+			"ponytail"
+		]
+	},
+	"ef81ab5f-04c5-4298-b804-d7ecd96cc4b0": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut"
+		]
+	},
+	"f0b37be3-6511-4068-9795-a1771682b279": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "armpit",
+		"style": [
+			"hair_down",
+			"layered"
+		]
+	},
+	"f10171e1-dbc4-4580-960a-80f77792c7cc": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"bangs",
+			"high_top_cut"
+		]
+	},
+	"f1e45260-bcad-4ef3-ba45-93bf862742e9": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"f2eb107c-099c-46db-b95a-7a49a73e4c40": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"f5c527b3-e4a8-4d44-b1db-bc14a12f99f0": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "ear",
+		"style": [
+			"afro",
+			"bangs"
+		]
+	},
+	"f71c44ca-20ed-479a-9d93-1295279dfe3e": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"hispanic",
+			"mediterranean",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"hair_down",
+			"layered",
+			"pulled_back"
+		]
+	},
+	"f9bfb164-34be-4abb-a009-79ec81aaa2c7": {
+		"age_group_match": [
+			"adult",
+			"young"
+		],
+		"ethnicity_match": [
+			"african",
+			"mediterranean"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"crew_cut",
+			"high_top_cut"
+		]
+	},
+	"f9fec3b0-abcd-4e32-a232-4a7f1fcb1f73": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"curtain",
+			"hair_down",
+			"layered"
+		]
+	},
+	"fa18bd83-aa7c-4ea4-b41f-7d39472a398d": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"male"
+		],
+		"length": "buzz_cut",
+		"style": [
+			"balding",
+			"crew_cut"
+		]
+	},
+	"fb9f785f-6974-45f9-a0bf-040e6c6ac6c0": {
+		"age_group_match": [
+			"adult",
+			"old"
+		],
+		"ethnicity_match": [
+			"mediterranean",
+			"north_european",
+			"south_asian",
+			"southeast_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "chin",
+		"style": [
+			"bob",
+			"layered"
+		]
+	},
+	"fed0f0c2-253e-42a0-9e00-6dff6ea87b22": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bangs",
+			"bob",
+			"hair_down"
+		]
+	},
+	"ff2a5d78-644a-496c-95d5-d90be191a0ae": {
+		"age_group_match": [
+			"adult",
+			"old",
+			"young"
+		],
+		"ethnicity_match": [
+			"hispanic",
+			"mediterranean",
+			"north_european",
+			"south_asian"
+		],
+		"gender_match": [
+			"female"
+		],
+		"length": "shoulder",
+		"style": [
+			"bob"
+		]
+	}
+}

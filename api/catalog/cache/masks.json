@@ -1,0 +1,14 @@
+{
+	"7e701bf2-91ef-4729-91f7-cb039e49b085": {
+		"gender": [
+			"male",
+			"female"
+		],
+		"style": "cloth",
+		"supported_position": [
+			"nose",
+			"mouth",
+			"chin"
+		]
+	}
+}

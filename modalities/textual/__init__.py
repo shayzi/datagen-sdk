@@ -1,0 +1,3 @@
+from datagen.modalities.textual.base.containers import BaseModalitiesContainer
+from datagen.modalities.textual.identities.containers import IdentitiesModalitiesContainer
+from datagen.modalities.textual.hic.containers import HICModalitiesContainer

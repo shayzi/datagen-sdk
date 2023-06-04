@@ -1,0 +1,90 @@
+{
+	"03e5ffc9-7670-46d9-a27f-c06a4c821b3a": {
+		"gender": [
+			"male",
+			"female"
+		],
+		"style": "reading_full_frame",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"3d81b060-ace3-48d5-b17d-6446335043af": {
+		"gender": [
+			"female",
+			"male"
+		],
+		"style": "oval",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"3f55415d-f941-4618-8ed5-2dc94e6b3e98": {
+		"gender": [
+			"male",
+			"female"
+		],
+		"style": "browline",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"484f76b7-9ca0-476f-9c03-578b3ba0ecb6": {
+		"gender": [
+			"female",
+			"male"
+		],
+		"style": "aviator",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"518467ba-b067-4aae-ad73-107acd0c3583": {
+		"gender": [
+			"female"
+		],
+		"style": "cat_eye",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"a1a2faf7-b1c7-4d92-82a2-a6bccc074ffd": {
+		"gender": [
+			"female",
+			"male"
+		],
+		"style": "oversized",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"aefa9fa1-01be-48fd-b6ac-00f4649efd5d": {
+		"gender": [
+			"female"
+		],
+		"style": "geometric",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"bfbc06fe-f72e-44ed-8ed4-3f715d849aff": {
+		"gender": [
+			"female",
+			"male"
+		],
+		"style": "reading_rimless",
+		"supported_position": [
+			"nose"
+		]
+	},
+	"f3c1d78a-6508-4925-ba6c-7fd2d474e863": {
+		"gender": [
+			"male",
+			"female"
+		],
+		"style": "round",
+		"supported_position": [
+			"nose"
+		]
+	}
+}

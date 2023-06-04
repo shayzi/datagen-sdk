@@ -1,0 +1,2105 @@
+{
+	"0012f794-4ad3-462d-8ac6-415705708f6c": {
+		"color": "amber"
+	},
+	"008a2bd7-13f4-4381-95b5-5332c46fd7ac": {
+		"color": "gray"
+	},
+	"008f5f51-b320-44ca-9762-cd31b0a8e121": {
+		"color": "blue"
+	},
+	"0097eae6-b009-4168-8da6-2e69f2357070": {
+		"color": "brown"
+	},
+	"00d2c195-dfbd-4f46-895c-eaba71dd72ae": {
+		"color": "brown"
+	},
+	"0173c97e-7c58-4bfc-9122-52db256cf649": {
+		"color": "hazel"
+	},
+	"02e364c6-6981-46c9-907e-b8002980a994": {
+		"color": "green"
+	},
+	"031231f0-f58c-4434-973a-b16094083d83": {
+		"color": "amber"
+	},
+	"03491c84-92fc-472c-af3f-076e8e2acc93": {
+		"color": "brown"
+	},
+	"036283f2-a735-4a0c-9753-ef73c555ef39": {
+		"color": "amber"
+	},
+	"04918934-772c-4a37-8bad-aa59479557bf": {
+		"color": "brown"
+	},
+	"04b542f8-3ddb-459d-8b35-ec3d702d4d9c": {
+		"color": "brown"
+	},
+	"04c2a90d-5f2b-401a-bbf9-14e259bb4bd3": {
+		"color": "amber"
+	},
+	"04d602aa-ba70-4ed7-945d-6496d1a76ed1": {
+		"color": "amber"
+	},
+	"05df6550-240c-4423-8e88-8afe01491fe8": {
+		"color": "brown"
+	},
+	"05ff92f5-ede1-460a-a516-cc0529987086": {
+		"color": "brown"
+	},
+	"06f5f9ae-3ef5-4217-9c02-7a679a0de9b0": {
+		"color": "brown"
+	},
+	"06fa7985-1be1-4c4b-b2ea-d6fb9ba9a86e": {
+		"color": "brown"
+	},
+	"0712bf3f-8701-4d61-a199-9b9ca109103a": {
+		"color": "hazel"
+	},
+	"075184fe-43e8-495f-ad9e-0f2001cc2eb2": {
+		"color": "amber"
+	},
+	"0838f0db-e804-4f40-a681-665b108a085b": {
+		"color": "hazel"
+	},
+	"084203f6-d0fd-4e68-8560-f98f506ddb58": {
+		"color": "gray"
+	},
+	"08fe125b-d45e-441d-9c49-627ad85e3887": {
+		"color": "gray"
+	},
+	"0916784c-7760-45d1-aef4-bdfb274a8219": {
+		"color": "green"
+	},
+	"0a0388b4-d824-4361-af9b-9ba415ae3d29": {
+		"color": "brown"
+	},
+	"0a33282c-3eed-43c1-9aa9-65a4524a3e59": {
+		"color": "blue"
+	},
+	"0ad7c6d1-9d7f-4010-9b42-13f15eb2d5bf": {
+		"color": "brown"
+	},
+	"0afac59f-ae5b-4158-bbb0-9d4dec7108e0": {
+		"color": "hazel"
+	},
+	"0b55699a-7de4-43e0-b571-4a6b5b8a73e5": {
+		"color": "hazel"
+	},
+	"0b571340-16c0-463a-936f-4c5688de41cd": {
+		"color": "brown"
+	},
+	"0b6a4965-d9ab-4ea8-864d-765c5363e4c8": {
+		"color": "brown"
+	},
+	"0b858fcd-e3a8-44c8-bffb-c772f3e543c0": {
+		"color": "gray"
+	},
+	"0ba69c90-b0aa-4740-842a-69dc3910bf77": {
+		"color": "gray"
+	},
+	"0c9de98c-6211-4c2b-9329-b9a1dce2a952": {
+		"color": "gray"
+	},
+	"0debe068-7ebb-40ae-8870-d2d8b1bbd9f2": {
+		"color": "blue"
+	},
+	"0e6f0aef-0420-43cc-8e14-9e27296e6ab3": {
+		"color": "brown"
+	},
+	"0ec29546-4851-4891-86cb-8aae2606630e": {
+		"color": "gray"
+	},
+	"0f99d260-a264-4cdc-ab07-90a6b197cb56": {
+		"color": "brown"
+	},
+	"0f9fb898-774c-4968-b403-f060425397ea": {
+		"color": "brown"
+	},
+	"1094e140-c032-4420-b8c6-c4268fd3b31c": {
+		"color": "hazel"
+	},
+	"10cebe9e-072b-4a5d-bbae-c033c01cc6cd": {
+		"color": "blue"
+	},
+	"111700da-9305-4dd8-9249-d0cda566f0cf": {
+		"color": "amber"
+	},
+	"1140f019-a972-41ea-b3d8-3778e8a351d3": {
+		"color": "amber"
+	},
+	"11d1a50e-fec9-4577-9e85-8376280b45f0": {
+		"color": "amber"
+	},
+	"121d8f9d-3013-4460-98ec-e67323a8177c": {
+		"color": "hazel"
+	},
+	"1256cab3-7452-4eec-8bc3-9b69d3584144": {
+		"color": "blue"
+	},
+	"1284ee75-1e14-410d-9726-e05b4f7ff8e4": {
+		"color": "hazel"
+	},
+	"129cde94-c1f1-4b03-b3df-104166b22b1c": {
+		"color": "amber"
+	},
+	"1303009b-7321-4b4a-aa40-74b40e5e271a": {
+		"color": "brown"
+	},
+	"13d4cd99-d34c-46b2-bb9e-4495fce6ba99": {
+		"color": "green"
+	},
+	"13db478d-987d-44c7-adc4-10dec9c441c2": {
+		"color": "amber"
+	},
+	"13fdac6a-232b-45c3-b065-ad062c4fd100": {
+		"color": "green"
+	},
+	"1432eef7-ceb8-4b6e-a456-cfe1050523cf": {
+		"color": "green"
+	},
+	"154ec7a7-2729-4b66-9a66-8acf73434a55": {
+		"color": "hazel"
+	},
+	"15510857-63c8-430b-af27-9fbc534c1f23": {
+		"color": "gray"
+	},
+	"1555f337-4961-433b-80fe-7eb9fe74c0df": {
+		"color": "brown"
+	},
+	"155dd9f1-92ac-4992-bf5d-f53765e8e5a7": {
+		"color": "brown"
+	},
+	"15ca6b93-fd50-459d-8ebf-595ae0f50496": {
+		"color": "hazel"
+	},
+	"15ec952e-79bc-4b97-a05a-24786445f996": {
+		"color": "blue"
+	},
+	"166da57d-876b-4f9a-800d-5ae4b4fc2062": {
+		"color": "blue"
+	},
+	"16d95ebf-29fd-4d2f-95c4-05dc45b19818": {
+		"color": "gray"
+	},
+	"1714c4da-7d80-4690-b3ff-66e868b58408": {
+		"color": "blue"
+	},
+	"1732c7b4-3a89-45f6-9b87-716566b44b0d": {
+		"color": "green"
+	},
+	"174563b7-d728-4d2f-b7aa-b66825b02602": {
+		"color": "hazel"
+	},
+	"1746f58e-a061-4f50-ae33-f67c9546a73c": {
+		"color": "brown"
+	},
+	"176cf4b0-c3cf-4118-bd57-9efbba6578cf": {
+		"color": "gray"
+	},
+	"17c899b1-787f-4909-854d-49118cd84ecb": {
+		"color": "blue"
+	},
+	"182575da-7663-4dc5-b55d-8ed8afbab318": {
+		"color": "green"
+	},
+	"18661115-cf54-4eff-8b0b-74785dba6834": {
+		"color": "gray"
+	},
+	"18c9d084-e4bd-4c72-a19a-2e85fac8b167": {
+		"color": "green"
+	},
+	"194f41df-a0d0-4603-831d-09e392f226d7": {
+		"color": "amber"
+	},
+	"199bdba6-fc03-4e6c-a00f-d9b40bd5217d": {
+		"color": "green"
+	},
+	"1a51d75a-4e6f-43d2-ab6d-52e2e7ae69df": {
+		"color": "green"
+	},
+	"1aae5100-d36a-4208-b9b2-8beda3cb6b82": {
+		"color": "blue"
+	},
+	"1b2c9e42-5029-46f9-8900-f48e8d440eb1": {
+		"color": "brown"
+	},
+	"1b3ca185-4715-4fb1-904c-046fa348ab34": {
+		"color": "hazel"
+	},
+	"1b92dad8-6693-4ca0-9c8f-84eabe924786": {
+		"color": "brown"
+	},
+	"1c18ea27-e2fe-4486-a370-bf0aedf5df64": {
+		"color": "brown"
+	},
+	"1cbfd0d6-45db-4a23-8bae-ad45b860c528": {
+		"color": "amber"
+	},
+	"1d02fbed-d4ed-4c86-8d46-568f0ea6af14": {
+		"color": "gray"
+	},
+	"1d3d0d63-c7f0-4fee-a29e-895d81736db3": {
+		"color": "blue"
+	},
+	"1d91db2a-2d61-4977-abef-fbb59e759fa3": {
+		"color": "hazel"
+	},
+	"1d99b323-b658-45cd-945e-59a9ec3c8cce": {
+		"color": "gray"
+	},
+	"1da57e23-fa7c-44ac-b72f-28e828e2887d": {
+		"color": "gray"
+	},
+	"1e4db0b9-7450-4dba-b69f-5f0fb90f85b2": {
+		"color": "gray"
+	},
+	"1ec0883c-d4e9-4a54-865a-29f82ec38d8d": {
+		"color": "gray"
+	},
+	"1ee798fa-2dea-4dcd-bdb3-bb2da25dd0cd": {
+		"color": "gray"
+	},
+	"1f549b46-94d5-4c44-ade9-f751c7ffa6ac": {
+		"color": "blue"
+	},
+	"1f65b3e4-0848-420c-ac64-71499381fcdc": {
+		"color": "gray"
+	},
+	"206b83d8-79b6-4aa1-9738-5e42691b47e5": {
+		"color": "green"
+	},
+	"20f6692a-2e09-4215-a06d-b60a2b7b789c": {
+		"color": "brown"
+	},
+	"218ab999-a2a1-4dd5-97c1-5aebf5455785": {
+		"color": "brown"
+	},
+	"21a7479f-9b66-48c6-9768-65965952c62e": {
+		"color": "blue"
+	},
+	"21b6e411-f4cb-4462-bdb3-c633a98f768a": {
+		"color": "amber"
+	},
+	"225a1387-8233-4d66-b249-297b5a231d4b": {
+		"color": "green"
+	},
+	"22aeb184-0c86-4922-9fd3-049eea06acfa": {
+		"color": "brown"
+	},
+	"22d2595b-32bb-4fb0-9397-08fd45b216eb": {
+		"color": "brown"
+	},
+	"231f4e6c-5a5b-4fa3-af3b-335122aa3ab5": {
+		"color": "amber"
+	},
+	"238c1745-dbd7-4ad7-bb8d-e64131bc88f7": {
+		"color": "hazel"
+	},
+	"23ea6798-204f-45db-8fee-b4d28555aee2": {
+		"color": "brown"
+	},
+	"2462815a-4a72-4155-ace4-5e5278c248ae": {
+		"color": "hazel"
+	},
+	"246bc497-a3ce-43c6-a980-72b145b52a5a": {
+		"color": "green"
+	},
+	"24d72c41-754e-47d0-91b8-25afe6e50d7a": {
+		"color": "amber"
+	},
+	"256f4994-a6b2-4263-ac25-8eb556c768ca": {
+		"color": "brown"
+	},
+	"261f9725-ad2f-481d-8e73-acf5a49705a7": {
+		"color": "blue"
+	},
+	"26b846d9-20a1-4a66-b48a-7a0bcfd6369b": {
+		"color": "blue"
+	},
+	"273b2bda-887d-4652-8f03-86ded52d5af6": {
+		"color": "green"
+	},
+	"2768e51c-cce3-4122-bfb7-49f5d96e309d": {
+		"color": "gray"
+	},
+	"28b0da8a-bfcd-44b3-88f2-0c553fefdb11": {
+		"color": "brown"
+	},
+	"29271d5d-d2eb-4412-93eb-49d3b74127dc": {
+		"color": "blue"
+	},
+	"29d2b554-a0ac-451d-a0f7-9245c0c8d160": {
+		"color": "brown"
+	},
+	"2a248ed6-d2aa-43ac-a68d-3c426e90dc5b": {
+		"color": "brown"
+	},
+	"2a681858-4c63-47e5-9b1d-10d144e8e345": {
+		"color": "blue"
+	},
+	"2ac0f3b3-6c30-4c76-bd28-d7f0a48aa958": {
+		"color": "amber"
+	},
+	"2ad5961f-131d-412c-acba-86d30c826d57": {
+		"color": "gray"
+	},
+	"2b6e509a-cc75-4edb-9886-8d55aaba582e": {
+		"color": "blue"
+	},
+	"2c239b92-89aa-4dc5-bf78-f50a8bd24451": {
+		"color": "green"
+	},
+	"2c57b605-6fe3-43ba-b6e9-88bbd9d20644": {
+		"color": "brown"
+	},
+	"2c5aa567-e8d0-4f1d-b32a-a6a4b30ac501": {
+		"color": "blue"
+	},
+	"2c7b744c-9254-4017-a953-12d6942ffaa3": {
+		"color": "green"
+	},
+	"2cc82cd5-7796-43ac-babb-90afdc6cba1f": {
+		"color": "hazel"
+	},
+	"2cc9cd68-331b-4bc8-bdce-8de3f0ed1858": {
+		"color": "brown"
+	},
+	"2cff4879-f5ac-4d5f-9bf6-6e30db91e15a": {
+		"color": "brown"
+	},
+	"2d80dc67-7d28-4467-ac41-824f25dc6b02": {
+		"color": "amber"
+	},
+	"2f040c28-ee45-4e54-84d9-a8acea2aa76a": {
+		"color": "brown"
+	},
+	"2f139396-40c6-4e8b-8d17-946dc3243054": {
+		"color": "amber"
+	},
+	"2f1c664b-a67c-4398-9fb3-d5519e7a8a8c": {
+		"color": "brown"
+	},
+	"2f519999-cce9-4359-81fe-d95bece76c69": {
+		"color": "green"
+	},
+	"2fae5a36-bfa0-4f97-83e8-43620265818f": {
+		"color": "brown"
+	},
+	"2fbf52fb-6018-414e-97a3-099b8741db4f": {
+		"color": "brown"
+	},
+	"307d90cd-7c05-44c6-b75e-b7175f3aa8a4": {
+		"color": "gray"
+	},
+	"31c827e8-6830-4ff7-b748-68db6f582719": {
+		"color": "brown"
+	},
+	"31d76e63-4b36-4b05-ac31-d6280a1448f4": {
+		"color": "brown"
+	},
+	"3229118b-3721-45c6-bb85-bb604962d832": {
+		"color": "brown"
+	},
+	"3262a0ae-8fbd-4b45-ac1f-6ff26f939aa8": {
+		"color": "hazel"
+	},
+	"326d91eb-4fa9-43b9-87e7-0fd1d64288b7": {
+		"color": "amber"
+	},
+	"32f8fdc3-412c-4c7a-ac06-6a65cc91d951": {
+		"color": "hazel"
+	},
+	"3337a5fa-c4d6-4aec-8103-387c5531e719": {
+		"color": "brown"
+	},
+	"33a6c7f3-cfc4-4d5d-816c-30a90d3ea561": {
+		"color": "amber"
+	},
+	"342a8c00-3fdd-46b9-8a4c-747c6003caaf": {
+		"color": "brown"
+	},
+	"3561277e-ab78-4b92-a3b8-16ce22d275e4": {
+		"color": "blue"
+	},
+	"362de1f6-6c84-47b3-bb4b-b51e113169ff": {
+		"color": "brown"
+	},
+	"365db2af-861a-4b12-b72d-fb8954180a9f": {
+		"color": "blue"
+	},
+	"366f71bc-5ae1-4321-9fef-b49329568d43": {
+		"color": "amber"
+	},
+	"368a3fe3-6b66-48c1-adea-e1bade2d229b": {
+		"color": "amber"
+	},
+	"36f51081-414b-4e3d-8346-0a22491ab836": {
+		"color": "brown"
+	},
+	"374b2f2d-33e4-4aa2-b60d-54ac2dc438bb": {
+		"color": "amber"
+	},
+	"37ddafc8-c06e-4e43-9fc6-e6031b3ee0cc": {
+		"color": "amber"
+	},
+	"382acb74-e72b-4c07-a517-b11660ca4a32": {
+		"color": "gray"
+	},
+	"388cc096-49f6-411a-af96-cc1b7fa50850": {
+		"color": "gray"
+	},
+	"389c37e8-520c-4d5b-9092-e031683da495": {
+		"color": "green"
+	},
+	"3a04e984-ae43-42bd-8027-1c66b4a29393": {
+		"color": "blue"
+	},
+	"3a799f57-79c0-49b6-b5f2-9247df69d1f1": {
+		"color": "green"
+	},
+	"3a9a0a54-1288-4c35-8ad9-9b3671dbc468": {
+		"color": "brown"
+	},
+	"3ab9e386-b7f4-4ff4-8a8b-71e85f14aebe": {
+		"color": "hazel"
+	},
+	"3b1ecaaf-a682-467d-bf9f-99793bdcc691": {
+		"color": "gray"
+	},
+	"3bca24b3-e416-469b-a64b-0886090b51ec": {
+		"color": "amber"
+	},
+	"3cca5911-da84-4d3e-bded-a172aafa39d1": {
+		"color": "green"
+	},
+	"3d1882f2-3ae9-4df7-8d04-6af5f6bfc4da": {
+		"color": "green"
+	},
+	"3d4508ae-19ba-4fd2-b47d-f8990024b484": {
+		"color": "brown"
+	},
+	"3d751ea9-8bc8-4526-8646-eaead3e29533": {
+		"color": "blue"
+	},
+	"3d7b470f-68a3-4790-bbcc-bde867292c25": {
+		"color": "brown"
+	},
+	"3da0a47e-48df-4980-8cec-2d675e5cf0e0": {
+		"color": "amber"
+	},
+	"3e6aa2c0-739f-4a15-a610-e26b185ea8e5": {
+		"color": "brown"
+	},
+	"3f51f947-3dee-4524-9a11-da26178f4f3f": {
+		"color": "amber"
+	},
+	"3f61c566-c261-4aeb-820e-dbd7e2bb9452": {
+		"color": "gray"
+	},
+	"404fbd82-4b0d-42b7-b534-bcdff242ee06": {
+		"color": "brown"
+	},
+	"40791faa-e13d-4bda-9f44-0e35f5cd6530": {
+		"color": "green"
+	},
+	"40a0640d-e928-443c-8c59-a150f1186357": {
+		"color": "brown"
+	},
+	"40c50590-cbdf-44af-881b-80e2884e7c6c": {
+		"color": "gray"
+	},
+	"40f0c6b2-3ff0-49f5-bc70-ff69ff417152": {
+		"color": "hazel"
+	},
+	"416ae791-5926-43fb-94ad-1f4d7ef39403": {
+		"color": "amber"
+	},
+	"419c5371-b0dc-4b17-8533-6e5a30061f2b": {
+		"color": "gray"
+	},
+	"41c752ac-9c9b-4808-be0d-526b27b0eb15": {
+		"color": "brown"
+	},
+	"4215a4cf-cd78-43be-9bd0-a3f84c974825": {
+		"color": "brown"
+	},
+	"4227a9e1-d49a-4a95-8cfb-2849833080ac": {
+		"color": "gray"
+	},
+	"4249a535-8b96-4069-8523-1661982ce5cd": {
+		"color": "hazel"
+	},
+	"42d66ad4-ddb9-4b48-b455-7350f75707af": {
+		"color": "green"
+	},
+	"43c67b2a-c4ad-410a-ad97-9c0e30a2f240": {
+		"color": "amber"
+	},
+	"4441e49a-0c8a-45da-92cb-7fb5d76f7488": {
+		"color": "brown"
+	},
+	"44d8b778-352b-4379-b675-3478adf68312": {
+		"color": "brown"
+	},
+	"450b7a42-6c48-4e63-9849-aa282923b276": {
+		"color": "green"
+	},
+	"45c24316-1352-4aba-be0c-b6e878dc9348": {
+		"color": "green"
+	},
+	"45c340cf-9f08-4c94-9118-7aec2731d350": {
+		"color": "hazel"
+	},
+	"4654d03d-16b6-4122-ad53-7f640bdb3480": {
+		"color": "amber"
+	},
+	"46dd2dad-6399-4482-887a-44f7984cad7f": {
+		"color": "green"
+	},
+	"46fdd6d3-6e4c-410c-9b7e-2feb7b005d7d": {
+		"color": "amber"
+	},
+	"47544156-2cff-407e-a4fe-84f3e101fd35": {
+		"color": "gray"
+	},
+	"47866842-9de1-4df6-8f0a-ac839a95cb6f": {
+		"color": "brown"
+	},
+	"479f02ee-9388-42ae-b6e6-3a56db0ba183": {
+		"color": "gray"
+	},
+	"4822fb04-ffe4-42f2-a830-1fb6283b3441": {
+		"color": "blue"
+	},
+	"492921d2-fe13-4c15-93a6-6760110e45c1": {
+		"color": "hazel"
+	},
+	"494962be-b3db-4076-b475-0010b0ac86e8": {
+		"color": "green"
+	},
+	"4995747d-a411-4dfb-8477-fe648eb7f2af": {
+		"color": "blue"
+	},
+	"49da189c-3579-4a17-8252-991fa647bab2": {
+		"color": "blue"
+	},
+	"4a71d7b3-a0ac-4639-9af1-3e0f20b80678": {
+		"color": "amber"
+	},
+	"4a936c72-b574-4783-a687-d8558bfadf55": {
+		"color": "green"
+	},
+	"4aa5f484-3200-4904-a9b3-07ea74ffcf3a": {
+		"color": "amber"
+	},
+	"4ae2ab1a-61ea-4f40-9b91-018700b79ee5": {
+		"color": "brown"
+	},
+	"4ce65eb4-bdaa-4b92-a79f-5fcff1b42c68": {
+		"color": "brown"
+	},
+	"4d9dd582-08d5-4c2c-baa8-ad7fc02cc6eb": {
+		"color": "blue"
+	},
+	"4e6e2c0e-4a77-48b1-88b8-e540d14f11c7": {
+		"color": "blue"
+	},
+	"4ebce910-f682-4282-bcd1-a6f0d310d61a": {
+		"color": "hazel"
+	},
+	"4f02a8bb-8fa8-4249-968c-625236c24e64": {
+		"color": "blue"
+	},
+	"4f1e7292-597a-4ac4-9962-b62b8fb18a47": {
+		"color": "amber"
+	},
+	"4f281b72-543b-49bb-b493-7e8245e4e106": {
+		"color": "hazel"
+	},
+	"4f75727f-24eb-42ef-8147-d5cf42cef494": {
+		"color": "brown"
+	},
+	"4fcdaf08-c17f-4672-b0fa-edce1a23dca0": {
+		"color": "green"
+	},
+	"50007409-ff80-4a4f-98c3-528dcec8fbc5": {
+		"color": "gray"
+	},
+	"50532c70-b20e-4126-86be-f9279b3c9999": {
+		"color": "amber"
+	},
+	"50fdd9c6-faf1-47f5-bb7b-1acbe01205f0": {
+		"color": "blue"
+	},
+	"5111f715-a0e3-4d69-8c73-1d3483d1cf59": {
+		"color": "green"
+	},
+	"513db0da-99c6-48f4-812e-d1eb55ab5202": {
+		"color": "brown"
+	},
+	"5278e908-0ee5-41c7-849e-77e9d4b2e128": {
+		"color": "brown"
+	},
+	"528723bc-2bb8-4fbe-aaeb-e2561a6ac825": {
+		"color": "amber"
+	},
+	"529014e6-7f5e-4909-86de-c8cc01c91cb2": {
+		"color": "blue"
+	},
+	"5309a03e-586a-457b-aa8a-6a00d5abeccd": {
+		"color": "blue"
+	},
+	"536bdc6d-aea0-4cb5-b0b0-392bea586b51": {
+		"color": "gray"
+	},
+	"539b5dc2-d827-4ba9-ad01-626990faff71": {
+		"color": "hazel"
+	},
+	"547224c5-12fb-42f4-a91f-a97fe6e07d2b": {
+		"color": "hazel"
+	},
+	"54bc574c-18d1-4bb6-971b-85213afb49ed": {
+		"color": "brown"
+	},
+	"5537975c-a831-4bfc-9472-5134848b4625": {
+		"color": "amber"
+	},
+	"55856c24-7604-4263-8f67-baf1a14883e3": {
+		"color": "brown"
+	},
+	"55874e09-0ce5-4f8e-8de0-b9c380281468": {
+		"color": "amber"
+	},
+	"55c0afae-6392-4941-ae6c-7e066e34667a": {
+		"color": "brown"
+	},
+	"562476f9-9cb3-42ca-b940-e2d5fd06431b": {
+		"color": "amber"
+	},
+	"57143db2-0082-4b8c-b168-72fc98d52104": {
+		"color": "hazel"
+	},
+	"573b0c16-670f-4d80-a039-aeb54d337efb": {
+		"color": "gray"
+	},
+	"57ce4c29-82d6-4f0b-abaf-41674bd9cb1e": {
+		"color": "brown"
+	},
+	"58029b9e-b739-413d-9839-7750f4986d32": {
+		"color": "blue"
+	},
+	"58d90561-0b63-402f-91f3-b65b8d9de79a": {
+		"color": "gray"
+	},
+	"5927d342-f5ff-4052-af25-ab49b3be4feb": {
+		"color": "hazel"
+	},
+	"5a4ccb52-487f-4e62-8d27-4615536b7e06": {
+		"color": "brown"
+	},
+	"5ab91dd3-0ea3-4023-9d3a-6d2885f46763": {
+		"color": "green"
+	},
+	"5b2b2b67-9363-4f6e-89a1-fc2c2ab77f1d": {
+		"color": "hazel"
+	},
+	"5cfb9552-db4f-4313-b737-e2ad93599cc8": {
+		"color": "brown"
+	},
+	"5d0474fd-d727-4440-a780-576041e95e1b": {
+		"color": "green"
+	},
+	"5d4e01a8-b510-4401-965b-7eefa8811519": {
+		"color": "green"
+	},
+	"5d5352fc-1cf4-4a37-842d-450fe6ddf465": {
+		"color": "hazel"
+	},
+	"5d7c2c31-b290-4ff9-a992-2e78077b0720": {
+		"color": "gray"
+	},
+	"5e49fa78-8f78-4bc2-95fb-2f9663cadff3": {
+		"color": "brown"
+	},
+	"5e8cc3e1-4f29-4f61-a657-0e49f0e45331": {
+		"color": "hazel"
+	},
+	"5f25ec57-fda3-4c27-b56e-d003e2a999e4": {
+		"color": "hazel"
+	},
+	"5f77dc76-73fa-42ba-acf8-a7a1ab19218f": {
+		"color": "gray"
+	},
+	"5fe08272-4c13-4521-9a19-ef67987cbe21": {
+		"color": "gray"
+	},
+	"603f1de4-eceb-41af-934c-af5c74b83b09": {
+		"color": "brown"
+	},
+	"606669c6-6d17-48ed-a982-62b3d57c7ce1": {
+		"color": "blue"
+	},
+	"6068b8ad-1e3b-450a-934f-c7eae704f3ad": {
+		"color": "brown"
+	},
+	"60d3aee5-580f-4e1d-947f-f5e7d929f27f": {
+		"color": "blue"
+	},
+	"613df447-90a6-41a7-a70d-301f4bb7619a": {
+		"color": "hazel"
+	},
+	"615bc5f8-1f68-4b2b-8a90-2c6ca300c62f": {
+		"color": "gray"
+	},
+	"618d7651-5bb2-43f6-9dc0-82773bfbbf69": {
+		"color": "brown"
+	},
+	"61ab6d75-418d-4510-b01c-a375448b5b98": {
+		"color": "hazel"
+	},
+	"622fde8f-902e-4693-8d96-619843e80ce4": {
+		"color": "brown"
+	},
+	"62a017da-5667-405f-83b1-6326c012de60": {
+		"color": "brown"
+	},
+	"62ef8b83-9015-48e8-99cd-10e86a2e6a35": {
+		"color": "green"
+	},
+	"63814f8b-28fa-4218-a332-daec64d05a3c": {
+		"color": "gray"
+	},
+	"63d498c4-4748-42e9-8fe1-fcec199f7a9d": {
+		"color": "blue"
+	},
+	"63ed05d7-5dcf-411d-b345-ec0565123143": {
+		"color": "hazel"
+	},
+	"6410c1c7-19e6-4748-bd82-2273b84f50ee": {
+		"color": "hazel"
+	},
+	"6449e11d-603a-45da-a52a-31343a37b443": {
+		"color": "green"
+	},
+	"651ae414-cf47-49c9-a942-163fe2a65b45": {
+		"color": "blue"
+	},
+	"655ce9c9-3a92-48c2-a651-6f49a7bab8cb": {
+		"color": "brown"
+	},
+	"65a11d44-4949-4fa9-9e75-cf8e063aa369": {
+		"color": "amber"
+	},
+	"65c8da46-bb06-442c-91ec-01c8da1c5052": {
+		"color": "gray"
+	},
+	"65e87855-b134-4e02-b857-7876e2c39c81": {
+		"color": "green"
+	},
+	"65f5a399-04a5-4c97-ace1-f1c094e380b0": {
+		"color": "brown"
+	},
+	"676817cb-931a-443d-b3f5-cc907f343d91": {
+		"color": "green"
+	},
+	"676b729d-bf20-4daa-bf97-05f49eee1bee": {
+		"color": "blue"
+	},
+	"6830dda9-c58e-42d8-984a-882d7c4949c7": {
+		"color": "blue"
+	},
+	"68371ab7-d33b-474c-b473-c789c285b927": {
+		"color": "hazel"
+	},
+	"688d32b7-716e-4fab-9e9e-3c29879b15e1": {
+		"color": "green"
+	},
+	"68b93d4e-2035-4078-a534-f261128c0c22": {
+		"color": "hazel"
+	},
+	"692d1b53-fdc3-42ed-8d14-269bd85f075e": {
+		"color": "green"
+	},
+	"6946ae83-ad72-466c-b0d9-49ef3b16620b": {
+		"color": "hazel"
+	},
+	"699ded4b-3a1f-46e8-840f-95baec2d42fe": {
+		"color": "amber"
+	},
+	"69bf4b50-c4f1-4835-b7d4-6bda41203626": {
+		"color": "brown"
+	},
+	"69dbcb4d-5cbb-4f00-8fb4-c30416cd2b0f": {
+		"color": "brown"
+	},
+	"69e9efbb-9f52-40e4-b941-ccd56cf47f35": {
+		"color": "blue"
+	},
+	"69fa9251-ab56-400d-9636-a20cef3333ab": {
+		"color": "amber"
+	},
+	"6a43e6a7-0a46-489e-b134-47f2ba786a9c": {
+		"color": "green"
+	},
+	"6a58f78d-6feb-4bdf-a35f-f965bd246167": {
+		"color": "brown"
+	},
+	"6b2fb605-9ee0-456e-91d3-d602e44402c6": {
+		"color": "hazel"
+	},
+	"6b573aca-d9ea-4990-9ebc-7d790a36b05e": {
+		"color": "green"
+	},
+	"6b8474ec-53fc-439f-9696-9bdfb75609a0": {
+		"color": "brown"
+	},
+	"6c3e9ce0-b259-4ac1-8dd4-335db8430641": {
+		"color": "brown"
+	},
+	"6ca7a107-907e-43e0-92f0-155ee2628561": {
+		"color": "gray"
+	},
+	"6d074613-8147-4ce2-a3c8-172a2397f31e": {
+		"color": "blue"
+	},
+	"6d354a02-b923-4186-8e19-751da5dc1800": {
+		"color": "brown"
+	},
+	"6d8e58c2-7767-4159-9a79-0a2fe9380e25": {
+		"color": "hazel"
+	},
+	"6d98f290-b800-4f0d-8a7b-58fb56f25904": {
+		"color": "hazel"
+	},
+	"6dba6b78-5282-4df1-b397-410d62b4257f": {
+		"color": "hazel"
+	},
+	"6dbde05e-12c5-4aba-8d22-273a0ba07b8d": {
+		"color": "brown"
+	},
+	"6e04e8f2-0b2a-4064-9ce9-fd6ff2707aed": {
+		"color": "brown"
+	},
+	"6e1a12aa-d0d2-435b-97a1-7e40a3b803ab": {
+		"color": "green"
+	},
+	"6e2eb8cc-f488-4352-8eb7-e5035c52d8cb": {
+		"color": "green"
+	},
+	"6e5a5bd2-b753-45d7-b0b6-9604ac59ae46": {
+		"color": "brown"
+	},
+	"6ec25839-c0f5-43fe-84b7-5ad76f639794": {
+		"color": "brown"
+	},
+	"6ed966b1-1ac7-4d39-959c-2c5d2b834c87": {
+		"color": "blue"
+	},
+	"6f02fcbe-dd28-4038-aa83-04197a000f2f": {
+		"color": "hazel"
+	},
+	"70632923-2929-4490-a96b-11338059db7e": {
+		"color": "brown"
+	},
+	"70a74267-ea48-4a91-8237-0c5dbf9f88c8": {
+		"color": "hazel"
+	},
+	"71077013-94dd-4d96-bd79-72fff75351cd": {
+		"color": "brown"
+	},
+	"71323cd3-c84c-446d-ab25-874e569c4693": {
+		"color": "blue"
+	},
+	"71785a20-9a4f-4e6f-8c38-8cb7385a10d9": {
+		"color": "brown"
+	},
+	"7229849f-6fa3-4462-a595-24928416443d": {
+		"color": "brown"
+	},
+	"724473ac-e7ab-4f9d-a20c-bf8aa4a80dbb": {
+		"color": "brown"
+	},
+	"726302e4-d425-4680-af13-edd270becc94": {
+		"color": "gray"
+	},
+	"734aed71-19c5-46b8-8231-b5c8afd2a2c0": {
+		"color": "hazel"
+	},
+	"73c763af-c54e-4915-af07-c13d6ef8bc7b": {
+		"color": "brown"
+	},
+	"73da0580-bf89-4dc7-8d82-64e77177583a": {
+		"color": "brown"
+	},
+	"73ddd6f7-4866-4cf5-9681-2ce1922247de": {
+		"color": "brown"
+	},
+	"73f525d3-df5c-4874-bb52-92ce3d1314ec": {
+		"color": "blue"
+	},
+	"741d48c9-26cf-4c74-8a8f-e4c335c09e80": {
+		"color": "brown"
+	},
+	"7488f75b-389a-434f-8afe-e39acfcdf099": {
+		"color": "green"
+	},
+	"74e71ced-6cd5-42e7-8c60-aba5711a54f3": {
+		"color": "gray"
+	},
+	"7559cefe-4f45-463d-b642-66f8003139f1": {
+		"color": "brown"
+	},
+	"761aea11-1a9f-43a5-bdb0-057c158c50b2": {
+		"color": "green"
+	},
+	"765e450e-48e3-4c8e-b8dc-03007841480e": {
+		"color": "amber"
+	},
+	"7670ee41-f745-4638-b404-c7fd688763bc": {
+		"color": "gray"
+	},
+	"776f7f63-3806-4359-9322-f5fb85e13756": {
+		"color": "brown"
+	},
+	"77af0ab7-77c9-46ed-990e-793a2da4f374": {
+		"color": "green"
+	},
+	"78cda7b7-01eb-428e-97c6-127264a08d43": {
+		"color": "brown"
+	},
+	"78f12cb2-90c4-44e9-b837-6d1ca8e7ee8f": {
+		"color": "brown"
+	},
+	"78f34e64-41d3-47cf-898f-4c09485146c8": {
+		"color": "green"
+	},
+	"79b23eab-3688-45f8-b1c4-dda18cc20c71": {
+		"color": "blue"
+	},
+	"7a1bc7e8-dad0-4848-bb8a-ca799437a44d": {
+		"color": "blue"
+	},
+	"7a2138b9-2f54-47bb-b5b7-51f4e79b7979": {
+		"color": "hazel"
+	},
+	"7a2f292f-3afa-4a65-901c-5c6482de1810": {
+		"color": "blue"
+	},
+	"7a457392-81ff-45f2-a4a4-e2b3d5f7061d": {
+		"color": "amber"
+	},
+	"7ac6e49c-0da0-4523-ab83-970886faba33": {
+		"color": "hazel"
+	},
+	"7ad19bc2-25f9-4488-8cbc-f0f204d43e7a": {
+		"color": "hazel"
+	},
+	"7b099937-5a01-43d3-b32d-834ecf2bfafe": {
+		"color": "brown"
+	},
+	"7c08325c-7515-44e2-a7c5-4c2fff37063d": {
+		"color": "gray"
+	},
+	"7c144118-3cba-4764-9e28-1993d5be9f69": {
+		"color": "hazel"
+	},
+	"7c197e13-fb95-40fb-af6c-2753b1a2ac3f": {
+		"color": "blue"
+	},
+	"7c444fb4-da52-4f68-a526-5846a844e6b4": {
+		"color": "green"
+	},
+	"7d00a264-37fa-4428-bab9-a8f6a7006fc4": {
+		"color": "blue"
+	},
+	"7d255d38-ce4a-48f5-875f-18e59a686262": {
+		"color": "green"
+	},
+	"7d917090-e101-462d-b670-68e6255f83b8": {
+		"color": "green"
+	},
+	"7d9b93b3-5c54-4364-9c2e-edc1f66c013a": {
+		"color": "gray"
+	},
+	"7ecc1222-50ee-408e-88ec-f07e366f13fe": {
+		"color": "blue"
+	},
+	"7edeaf5b-9f36-4236-801a-dc473c2cca1c": {
+		"color": "brown"
+	},
+	"7efb0246-47a5-42d5-8ad8-cdb5d3c07e32": {
+		"color": "green"
+	},
+	"7efc89c8-b2b0-44ec-897c-a4b4596a033b": {
+		"color": "brown"
+	},
+	"7f18e9af-c3de-402e-b55d-c4f1d443ab1f": {
+		"color": "brown"
+	},
+	"7fbd613b-aee0-4a3a-b24a-50d07c687e66": {
+		"color": "brown"
+	},
+	"8224be92-bb68-447d-8e8d-42814acf12a1": {
+		"color": "blue"
+	},
+	"82252023-2206-4a29-9cd1-07f386f232f0": {
+		"color": "amber"
+	},
+	"822e6af6-d322-4f14-846a-9fff375a14af": {
+		"color": "brown"
+	},
+	"82e1f892-8ab6-4c6b-bbf8-b8a13ae49f99": {
+		"color": "gray"
+	},
+	"836b2e71-300f-41fe-af0c-1bbe97fa5c6a": {
+		"color": "hazel"
+	},
+	"840b2285-38f7-4fd9-a022-fc6e18c62c48": {
+		"color": "blue"
+	},
+	"84211ee3-3a79-448e-be28-6b741b0611d5": {
+		"color": "gray"
+	},
+	"84cebeac-7f7a-41ee-8ec8-2e8bbd2325ac": {
+		"color": "gray"
+	},
+	"84e93712-dae4-4374-970e-371438cfac33": {
+		"color": "amber"
+	},
+	"8508e604-e166-43c4-a526-7534643442e4": {
+		"color": "gray"
+	},
+	"852f608b-fc25-405d-a026-bf5154e59c70": {
+		"color": "brown"
+	},
+	"855af428-909e-45d2-8867-b8b9604ecdc3": {
+		"color": "blue"
+	},
+	"85f0ac25-37c2-4d7a-8cda-ea806694f545": {
+		"color": "hazel"
+	},
+	"86266c2c-1d62-4075-ad69-daef92e1c2d6": {
+		"color": "brown"
+	},
+	"86e57af2-97de-4a21-af18-68f2459a28c4": {
+		"color": "hazel"
+	},
+	"870682c0-2881-46c0-b7a6-1be59da7c7a3": {
+		"color": "gray"
+	},
+	"87b3c7b3-f054-4a05-aaba-30ebd9f9f136": {
+		"color": "amber"
+	},
+	"87f58e17-02ed-4177-b3c0-afe3d332b8ff": {
+		"color": "blue"
+	},
+	"8853bcb7-d096-4252-9b4b-f238926286c9": {
+		"color": "hazel"
+	},
+	"88b4ca2e-224d-4c44-8955-9f9d7dc60f47": {
+		"color": "amber"
+	},
+	"894d9e4d-4322-40a3-a3ed-51c1409d3dc9": {
+		"color": "gray"
+	},
+	"89722848-343e-4451-9725-c5a30ede9f2c": {
+		"color": "brown"
+	},
+	"89c64c1d-9eb7-4963-b7cf-4a1998b4b62f": {
+		"color": "brown"
+	},
+	"89ceaceb-79db-4373-a3bc-e6a09aeb23fd": {
+		"color": "amber"
+	},
+	"8a2420d7-5313-4750-baea-368986dd3738": {
+		"color": "gray"
+	},
+	"8b0b2891-f623-4a59-91ed-384e9f929b8a": {
+		"color": "brown"
+	},
+	"8b3f46ec-db4b-4800-8072-7f6f46220de0": {
+		"color": "amber"
+	},
+	"8bc12d1e-4ba0-4a54-920a-a50c3a7b8027": {
+		"color": "amber"
+	},
+	"8c2ee91b-96d6-46ab-b10c-b8156b00d4b0": {
+		"color": "green"
+	},
+	"8c72f049-8bb3-4156-a51a-97f40e3fb441": {
+		"color": "brown"
+	},
+	"8d232a28-3f69-4aac-9e8c-836b0775b106": {
+		"color": "blue"
+	},
+	"8d726600-6bbb-4b80-993e-befd58216803": {
+		"color": "amber"
+	},
+	"8d810885-3529-4289-ab30-f02929b8b2a2": {
+		"color": "gray"
+	},
+	"8df02833-7f93-4c94-9920-f02912a5737f": {
+		"color": "green"
+	},
+	"8e2d6b03-731b-47cb-900d-adba63c4a43f": {
+		"color": "hazel"
+	},
+	"8ed3d64c-2dd4-4ffb-a814-044a0d2a0f01": {
+		"color": "brown"
+	},
+	"8eefff1a-e4fe-447f-8b4f-8cc2ea54f317": {
+		"color": "amber"
+	},
+	"8f7201d5-ed20-47da-aba5-dbf914a9cacd": {
+		"color": "green"
+	},
+	"9030d234-e157-4ab9-891d-f2665256f00e": {
+		"color": "blue"
+	},
+	"9176cf33-5d80-4182-a6e0-99df1ec8bbb2": {
+		"color": "green"
+	},
+	"918a67f3-dd05-405b-bf57-e913f0e594d2": {
+		"color": "gray"
+	},
+	"91c85e7a-2c9a-4f59-bfcb-3889abde7a2c": {
+		"color": "blue"
+	},
+	"91f03ce8-78b0-4d66-ac1f-ded1a44c2fba": {
+		"color": "amber"
+	},
+	"924bfb92-3e5e-47a7-9c73-e9deaab0eed5": {
+		"color": "amber"
+	},
+	"9256e1ec-1f1d-45c7-9fda-6e2f26e88da0": {
+		"color": "brown"
+	},
+	"92cb7724-d10f-4aa8-b5d0-eac4fbc77aa7": {
+		"color": "blue"
+	},
+	"92d179ac-37a3-475a-b3d4-1b6d79aebea8": {
+		"color": "brown"
+	},
+	"9315e25e-e2a1-4c24-918a-f05b6b6f8706": {
+		"color": "gray"
+	},
+	"93edf514-1bf4-4aa2-8a63-841038b9e0d3": {
+		"color": "green"
+	},
+	"9537010c-6822-486a-890b-fb5913136ec8": {
+		"color": "amber"
+	},
+	"95457ac2-f1c5-454e-945c-5db26051603a": {
+		"color": "green"
+	},
+	"959f3a1b-0fa4-418c-86db-38001394f5f3": {
+		"color": "green"
+	},
+	"9680b415-45fa-441d-b91a-d0b0888fa7b7": {
+		"color": "gray"
+	},
+	"968dc66a-9e98-46ca-9407-789baab731cc": {
+		"color": "blue"
+	},
+	"96fa8322-b1e8-4b3d-adaf-451252e1272b": {
+		"color": "hazel"
+	},
+	"96fda1cd-9458-4bb5-bdcf-f64c0c49e5fe": {
+		"color": "amber"
+	},
+	"96ff9c78-a4fb-48cb-b189-eede2d53cc05": {
+		"color": "brown"
+	},
+	"97bf2dbe-64a9-4c77-9b06-6e57c7a0bca4": {
+		"color": "green"
+	},
+	"9876e3d9-4a48-4d55-8d69-86a348ef00e3": {
+		"color": "gray"
+	},
+	"98ae29af-8b94-420e-a40a-cc60f075dc7a": {
+		"color": "green"
+	},
+	"993831ba-36ff-4e18-ab63-f0d27525c783": {
+		"color": "blue"
+	},
+	"99e3ef76-6c0f-4413-b29d-7d51a6c5bc18": {
+		"color": "gray"
+	},
+	"9a3dc03b-d821-45ca-bd82-53886b215f0d": {
+		"color": "green"
+	},
+	"9a3f7d72-b1eb-4c36-87d0-64325a80d793": {
+		"color": "green"
+	},
+	"9a63fdf1-baa8-4533-bad8-a00f47ee7fb1": {
+		"color": "brown"
+	},
+	"9ac26c55-c301-402e-affd-17a5099b94d4": {
+		"color": "blue"
+	},
+	"9b2bf3ed-60f0-4b5d-9cdc-5a4bc59196e1": {
+		"color": "brown"
+	},
+	"9c9d0586-b7a1-4b7c-ace9-969fbb0ffa4a": {
+		"color": "gray"
+	},
+	"9c9d246d-ef24-4060-832f-41774d372228": {
+		"color": "hazel"
+	},
+	"9cb72e96-9d85-411f-9ddc-82e22cecead1": {
+		"color": "hazel"
+	},
+	"9d10d04a-1bd1-4c3a-b973-21033f24ca0a": {
+		"color": "amber"
+	},
+	"9d706cff-53ba-4e1e-81d8-458fb63e6600": {
+		"color": "gray"
+	},
+	"9db4889b-ebdd-4369-aa66-3f320ec49113": {
+		"color": "hazel"
+	},
+	"9e0bd0e8-af8a-45e9-908b-f1b783a4ac6a": {
+		"color": "blue"
+	},
+	"9e1bfa51-84bc-401c-9d32-915a54c7db4b": {
+		"color": "hazel"
+	},
+	"9eb72c2d-5bc7-4d6d-bfb2-4940784a5d1a": {
+		"color": "brown"
+	},
+	"9f0102ca-c57c-43a9-b792-258b7c5a4fa3": {
+		"color": "brown"
+	},
+	"9f53e3ea-e7dd-40b4-9c31-1a3677e63018": {
+		"color": "hazel"
+	},
+	"9f7e05b2-a94e-44b1-b721-afe04170a962": {
+		"color": "green"
+	},
+	"9fc9a6c7-be65-42c6-9a7a-4d1fc100c764": {
+		"color": "blue"
+	},
+	"a026e1c5-28a2-483a-a6e3-7fd7c1e399f6": {
+		"color": "brown"
+	},
+	"a03bde92-7e4f-4d11-aec2-4459f4222870": {
+		"color": "amber"
+	},
+	"a0a2ee69-759a-484b-9e5b-1b7e536e6040": {
+		"color": "green"
+	},
+	"a0cdefb2-54e0-4529-9714-a5603295daf9": {
+		"color": "brown"
+	},
+	"a0de0928-cd41-4873-925f-ecc860542797": {
+		"color": "brown"
+	},
+	"a1896187-fc3d-4eb2-ae1c-cb690f31d9d5": {
+		"color": "brown"
+	},
+	"a1c15d99-695e-43d9-8b4c-8be53e6a94a7": {
+		"color": "brown"
+	},
+	"a2097cfe-0a67-445c-b55a-3fa4ad3ea6cd": {
+		"color": "hazel"
+	},
+	"a2116dbe-1ae8-4ddd-92f7-8ad64975e1f2": {
+		"color": "gray"
+	},
+	"a2203c9e-4ddf-456c-854c-e6f3e68c6cf9": {
+		"color": "brown"
+	},
+	"a269a322-4b4b-44ef-8209-2310a160be2d": {
+		"color": "hazel"
+	},
+	"a3e07ea8-7675-47bb-8b12-2cb6b9c0ad46": {
+		"color": "blue"
+	},
+	"a3e56015-9545-4f52-8677-2e3646d8fc75": {
+		"color": "green"
+	},
+	"a3ec3f0d-f158-40b2-9621-3a727bd66b41": {
+		"color": "brown"
+	},
+	"a3f05991-1503-4572-8f41-94f93f5e0ce6": {
+		"color": "blue"
+	},
+	"a44532bb-1fb7-490b-be8f-b2489a0ae562": {
+		"color": "gray"
+	},
+	"a45feab8-449e-40c8-af44-6a2bf598987f": {
+		"color": "brown"
+	},
+	"a461b169-efed-4cef-8f21-1450830bfd47": {
+		"color": "brown"
+	},
+	"a4887b2e-26f9-4107-a36e-a24acfc0767e": {
+		"color": "brown"
+	},
+	"a4b8dfae-43d2-4af0-9d47-56104d88a3a8": {
+		"color": "blue"
+	},
+	"a51bd6e4-7278-4dc8-9e47-01007f8ec18d": {
+		"color": "brown"
+	},
+	"a57022f4-eabc-4982-a910-8d95ff3e2eca": {
+		"color": "brown"
+	},
+	"a57a2c37-0cb5-497e-82bc-898cb661693d": {
+		"color": "brown"
+	},
+	"a5a54dc7-53c3-41c4-bf39-ced2b794dd50": {
+		"color": "brown"
+	},
+	"a5ea7bb8-6bbf-43e2-b61e-b113d4a3f03c": {
+		"color": "amber"
+	},
+	"a66a4ac9-95a3-4e0b-b844-2d5d5e1f3148": {
+		"color": "green"
+	},
+	"a695496e-6522-413c-a0dd-ec0663a84eb7": {
+		"color": "gray"
+	},
+	"a71d7cd0-dc4e-4c28-b1f8-b83d0e051e77": {
+		"color": "green"
+	},
+	"a746db32-1141-40f2-b041-a97289795e87": {
+		"color": "gray"
+	},
+	"a75e784f-177a-4653-804b-a6753dd95c7d": {
+		"color": "hazel"
+	},
+	"a76479b9-eac2-4bfe-91a5-bdce8a211b20": {
+		"color": "hazel"
+	},
+	"a7b28042-509b-4256-8ce1-04dfc550ce0c": {
+		"color": "blue"
+	},
+	"a80cf1c6-d411-48d2-b478-c476da1bbdcd": {
+		"color": "amber"
+	},
+	"a9a2e8d8-970a-44fe-93c6-042f34e7e5c8": {
+		"color": "blue"
+	},
+	"a9ff4d44-f08c-465e-b30a-3e6c4ba3fb7b": {
+		"color": "gray"
+	},
+	"aaa86578-db5d-4077-9f2b-d8d635f1c05b": {
+		"color": "brown"
+	},
+	"aac4b51e-2283-4888-9b26-fd46e89dc9d2": {
+		"color": "green"
+	},
+	"ab16c338-d963-44c9-a105-4f419d60586d": {
+		"color": "gray"
+	},
+	"ab918ded-5073-4466-9a1a-0c157f0ea212": {
+		"color": "brown"
+	},
+	"abb9d1b4-1756-438a-a8fe-0ae3f54498e3": {
+		"color": "hazel"
+	},
+	"abfbb358-c797-43cc-bdbb-5bb63bfeb034": {
+		"color": "green"
+	},
+	"ac6a091f-5893-4387-bbbe-60f6020d32a0": {
+		"color": "gray"
+	},
+	"aca83962-2450-46bf-8aed-13bdbfbcc824": {
+		"color": "hazel"
+	},
+	"acaba673-fe18-4246-84eb-169b2fc8535a": {
+		"color": "gray"
+	},
+	"ad03b8d8-0654-4adf-b143-1d59bd9e15c1": {
+		"color": "blue"
+	},
+	"aea07ceb-a62b-452a-8e62-47a3f52c5de2": {
+		"color": "hazel"
+	},
+	"aea150c2-2365-4e7a-9b72-c6135a4d6d16": {
+		"color": "green"
+	},
+	"aea22b34-19ac-4457-9cb3-9cca1d65e83e": {
+		"color": "hazel"
+	},
+	"af24253d-a80c-4f84-a44d-d20f5f68df67": {
+		"color": "hazel"
+	},
+	"af86890c-8491-460a-bb6b-a71453c88cb4": {
+		"color": "brown"
+	},
+	"afaf2e8e-b26d-4efe-a04f-ecdf1cab9e75": {
+		"color": "gray"
+	},
+	"b02f84c0-7e03-462b-b33b-6431ca37c637": {
+		"color": "gray"
+	},
+	"b06e778e-ff81-46af-8ad7-db8dbc034e14": {
+		"color": "brown"
+	},
+	"b11bdd64-f151-4010-8b0b-dff8d239408f": {
+		"color": "brown"
+	},
+	"b120486d-a880-4086-be2c-686e0d2baada": {
+		"color": "blue"
+	},
+	"b1221a24-b44c-4789-a68b-b63d56b59bf4": {
+		"color": "brown"
+	},
+	"b147b07e-337d-4d0f-9ee9-93ff14064f6a": {
+		"color": "amber"
+	},
+	"b154beb7-9254-47ca-a812-6d04d6aceeaa": {
+		"color": "blue"
+	},
+	"b156c436-e941-43df-a6e8-89cee8a652d9": {
+		"color": "brown"
+	},
+	"b1585373-ceab-4e9c-91f0-1660cd59f5d4": {
+		"color": "hazel"
+	},
+	"b16caa9e-7c70-4512-ac0a-bee2642d281c": {
+		"color": "brown"
+	},
+	"b1ef0ab6-4c05-4c88-a977-b5bd547c309c": {
+		"color": "amber"
+	},
+	"b2658078-0656-4c00-b1ea-a4b995b04acc": {
+		"color": "gray"
+	},
+	"b2ccb036-ccde-4ba9-8e00-8f1235dfe8a1": {
+		"color": "green"
+	},
+	"b3604650-6375-466a-916f-7ca34b143821": {
+		"color": "brown"
+	},
+	"b45a5635-4e86-4466-b4f8-09e4e37b0e84": {
+		"color": "blue"
+	},
+	"b4d8fa22-86a0-49c3-be95-aa857d80f494": {
+		"color": "blue"
+	},
+	"b4dca6dc-68a0-49c0-a4bb-74049fc9067f": {
+		"color": "amber"
+	},
+	"b4ed2e35-67e8-4c1b-aea3-43febb027cca": {
+		"color": "amber"
+	},
+	"b5604f9b-4939-4ca7-8da2-772e8def25ff": {
+		"color": "hazel"
+	},
+	"b5720bf5-bdb5-4a89-a8b4-17a2680fe4c1": {
+		"color": "hazel"
+	},
+	"b57b4711-4238-48be-8418-5e457ab6a254": {
+		"color": "gray"
+	},
+	"b580c086-d767-4841-84e5-47bab9356ced": {
+		"color": "green"
+	},
+	"b6162a37-865d-447f-94e8-5bb34f5309f7": {
+		"color": "brown"
+	},
+	"b628a950-6615-4fdd-a416-c5e2f7eb5add": {
+		"color": "brown"
+	},
+	"b64e11a3-ec80-433b-8d1f-727cc911df05": {
+		"color": "brown"
+	},
+	"b65622cc-b990-4d99-b8e0-fed99be9d637": {
+		"color": "hazel"
+	},
+	"b6a81897-673f-4c2f-8c0f-d6ff7a354281": {
+		"color": "gray"
+	},
+	"b6cb76e9-60c6-44e7-9484-1e26d341812f": {
+		"color": "brown"
+	},
+	"b725b11e-c491-4bc2-99dd-43ed3022219a": {
+		"color": "gray"
+	},
+	"b7370b71-4651-4adf-8d4e-c108b46269fa": {
+		"color": "amber"
+	},
+	"b7b2cddd-96fb-439b-957c-85009d9a328c": {
+		"color": "hazel"
+	},
+	"b7d9f4ea-9416-48c2-949b-d0f853a8fbc5": {
+		"color": "hazel"
+	},
+	"b7ee40e7-0e5d-4409-9ef5-8246481e4242": {
+		"color": "gray"
+	},
+	"b8b4b566-c0a9-4182-ac5b-2fe25c2d1b80": {
+		"color": "green"
+	},
+	"b8f4e0b3-1a56-4126-aa92-253a8c663d19": {
+		"color": "amber"
+	},
+	"b971cb70-4348-4ae9-b3d2-7cf364e09f3a": {
+		"color": "blue"
+	},
+	"ba1e2c3d-5021-4921-a3d1-8d3d7b57f21d": {
+		"color": "brown"
+	},
+	"bb7477af-12c0-4525-9e65-10cfc156a543": {
+		"color": "hazel"
+	},
+	"bb91aa31-d4b7-45bf-a5f2-7bb86b2117cb": {
+		"color": "gray"
+	},
+	"bc11f84d-43ad-46d4-aac9-645eb6d728e6": {
+		"color": "blue"
+	},
+	"bc284fac-1e6a-49fd-98e5-3d9e4f018ae9": {
+		"color": "amber"
+	},
+	"bcdf849e-fefc-446c-931f-54240be907a0": {
+		"color": "green"
+	},
+	"bce2b44b-0c91-4fef-a8a6-a730a534eac1": {
+		"color": "gray"
+	},
+	"bcea0f3b-d5d8-457f-8fd5-9bf3165ae5cd": {
+		"color": "gray"
+	},
+	"bcf26303-e1b9-4f0c-9871-6056e368890e": {
+		"color": "brown"
+	},
+	"bd25e6f4-0dd0-455a-9372-76375c455de5": {
+		"color": "amber"
+	},
+	"bd8ac498-0490-4b9a-b4a9-4a3bca460684": {
+		"color": "green"
+	},
+	"be4308ee-d136-4809-9b7f-a7fa7c99c737": {
+		"color": "gray"
+	},
+	"be83e411-fabb-4286-8f0a-be24751ca25f": {
+		"color": "brown"
+	},
+	"be95a0ec-426c-466e-a43e-3cfd842ee13f": {
+		"color": "brown"
+	},
+	"be99f1bf-cb3b-4f39-917b-5fb386da5627": {
+		"color": "brown"
+	},
+	"bf0671fd-3499-4e03-8414-6594ad430981": {
+		"color": "gray"
+	},
+	"bf166906-6cff-4167-a418-815ba59f3f89": {
+		"color": "amber"
+	},
+	"bf7c8184-f86a-4f8e-b010-34b4cca32fe4": {
+		"color": "brown"
+	},
+	"bfc43b8c-7ed9-4e7f-afe4-e2ec00811a13": {
+		"color": "hazel"
+	},
+	"c02b3db0-faba-4412-b6f2-04849ab9878e": {
+		"color": "amber"
+	},
+	"c02cbdd0-2976-4316-8b4f-8a94efd55f98": {
+		"color": "brown"
+	},
+	"c07640c0-0462-4e4f-b968-393d9bb53b51": {
+		"color": "blue"
+	},
+	"c084135c-8eb4-4967-9ea9-a027ae89dd35": {
+		"color": "amber"
+	},
+	"c0b1dd1b-cd50-483c-9f36-5b54e473e047": {
+		"color": "amber"
+	},
+	"c12ed6d7-0553-4911-8145-fd76f1025961": {
+		"color": "brown"
+	},
+	"c1d7414f-166d-4e25-b201-d26e66ae905a": {
+		"color": "green"
+	},
+	"c1ed1fa4-8f52-4f42-aef3-2d41e33ce9ed": {
+		"color": "amber"
+	},
+	"c1f363fb-da5b-4650-acb3-987769667b31": {
+		"color": "green"
+	},
+	"c27242a9-44b1-4320-af52-46341488f621": {
+		"color": "green"
+	},
+	"c2e009c5-4579-4cd1-bb7a-e26f3ff7b1b8": {
+		"color": "brown"
+	},
+	"c30f88ee-66f2-4615-b335-4b831b41deb4": {
+		"color": "brown"
+	},
+	"c3a58ec3-ad12-4aca-b27c-ebe42bf16a39": {
+		"color": "blue"
+	},
+	"c3cf7dc5-25bc-4be5-8993-1b2d248e592e": {
+		"color": "gray"
+	},
+	"c3f19e06-2ea8-46bc-8305-e0b2c60e8f92": {
+		"color": "blue"
+	},
+	"c50871db-3e22-40a8-aa75-b48ff55ca39d": {
+		"color": "blue"
+	},
+	"c581fbc4-e636-4d57-9e4a-76cfea3f9451": {
+		"color": "green"
+	},
+	"c58a9289-228c-4fe8-b901-dfba42f81df2": {
+		"color": "brown"
+	},
+	"c59f338c-18c4-4d1d-9996-74c57e26a5f1": {
+		"color": "blue"
+	},
+	"c5d3c6c6-be01-4c72-98bf-b29d81440c6b": {
+		"color": "gray"
+	},
+	"c602186b-11e2-4cf6-9825-1601b3062328": {
+		"color": "green"
+	},
+	"c65b0a80-6157-4002-8d76-91468581721f": {
+		"color": "green"
+	},
+	"c6750065-f9ff-4e3c-96cf-b26ff0b1d7d0": {
+		"color": "gray"
+	},
+	"c6e50f89-416a-4d99-aa3c-f8c5453ffed5": {
+		"color": "brown"
+	},
+	"c726883c-759f-495e-b4f7-fe6a673789af": {
+		"color": "brown"
+	},
+	"c81b0312-0edb-41ba-8bac-36517620555d": {
+		"color": "hazel"
+	},
+	"c883312a-bc2e-41df-a83e-016a96df1b3e": {
+		"color": "amber"
+	},
+	"c8f73c37-b391-4cc1-ad8c-d4f7054d5b50": {
+		"color": "brown"
+	},
+	"c94d9456-f6b8-45f0-84d0-525fe7516f8d": {
+		"color": "green"
+	},
+	"c95caecc-38e3-483d-b2e9-3342255d76b6": {
+		"color": "green"
+	},
+	"c9708b2d-269e-4c14-a99a-063d07e47c88": {
+		"color": "hazel"
+	},
+	"c9d56f34-cd5a-4cb5-9d76-2bf8bf5fd273": {
+		"color": "blue"
+	},
+	"ca80c75f-84aa-4a9e-8489-95de9af1fe73": {
+		"color": "amber"
+	},
+	"cac32b23-5a0a-4879-a094-4acbbc272a56": {
+		"color": "green"
+	},
+	"cb2fb422-0811-4c8f-9f4b-a32ec77ed446": {
+		"color": "green"
+	},
+	"cb43589d-dba7-49b1-9f7e-c7f758e1f90f": {
+		"color": "hazel"
+	},
+	"cb502580-25a4-4890-9196-abcf7b701b0e": {
+		"color": "amber"
+	},
+	"cb98fdf2-54f5-42ea-ace9-8a94a3345c63": {
+		"color": "amber"
+	},
+	"cc552ba6-1c41-4fb4-9ede-c702730f073f": {
+		"color": "amber"
+	},
+	"cd90090d-6f11-4c85-b983-7460f935d1c1": {
+		"color": "hazel"
+	},
+	"ce10a4e0-eecd-4bfc-8748-d729eac13afd": {
+		"color": "gray"
+	},
+	"cef51ecc-7739-498a-8fe2-66babadb3c74": {
+		"color": "green"
+	},
+	"cf48fbd3-6cde-49f9-b2c2-f259e5d55adc": {
+		"color": "brown"
+	},
+	"cf902220-1d7a-46a9-99f8-40aaf7032eec": {
+		"color": "gray"
+	},
+	"cf9bc296-f160-42fb-a65c-dfa888c1a125": {
+		"color": "green"
+	},
+	"d06e29fa-8051-496a-b84d-ecdf92eb028f": {
+		"color": "brown"
+	},
+	"d0a47da4-7719-4776-96d0-196e064eafbd": {
+		"color": "hazel"
+	},
+	"d1080f34-0cb3-40b9-b46e-9c9c9b75fa29": {
+		"color": "blue"
+	},
+	"d149140d-484b-4d71-9ed4-257f09e772ba": {
+		"color": "brown"
+	},
+	"d1533265-5380-4e3f-a4a3-f6021bedb762": {
+		"color": "gray"
+	},
+	"d17a4322-d2af-4077-9710-9e7e512a76e0": {
+		"color": "green"
+	},
+	"d2091b6b-f24b-4171-bea2-69f194b490ca": {
+		"color": "green"
+	},
+	"d2094a0b-45e6-40ba-815f-c919b6f84d1d": {
+		"color": "gray"
+	},
+	"d2262924-1425-4e45-8980-f4746115a5aa": {
+		"color": "brown"
+	},
+	"d2278f96-e556-4690-8af9-d29089ad5838": {
+		"color": "blue"
+	},
+	"d239afad-ac02-49a6-9636-7d2c7b7d507d": {
+		"color": "blue"
+	},
+	"d27c1906-13d0-4ab8-beca-bc0acc4f5d97": {
+		"color": "brown"
+	},
+	"d3053030-2031-4bc0-a7b8-9d884ae0ffa3": {
+		"color": "hazel"
+	},
+	"d33ab098-aa6d-45cc-a68f-0188796fb0e7": {
+		"color": "brown"
+	},
+	"d35f7f15-f033-4771-965f-008cf695ecb5": {
+		"color": "amber"
+	},
+	"d3c8f6a3-14ee-48b8-a236-70eb2b1d5edb": {
+		"color": "gray"
+	},
+	"d3ce1cd3-c9f2-41e3-a544-0c1037958673": {
+		"color": "hazel"
+	},
+	"d470b6da-09fb-45d9-b4c3-634708401074": {
+		"color": "blue"
+	},
+	"d47c4ee1-e2ec-48f6-8fcb-c0744afea349": {
+		"color": "brown"
+	},
+	"d4e5c973-ede3-4f1b-a255-d6a3f3e292d0": {
+		"color": "hazel"
+	},
+	"d6a3150d-8225-4612-a2b2-97e8e96f4f9a": {
+		"color": "brown"
+	},
+	"d77371b6-a968-4069-8d52-88070efb1ab2": {
+		"color": "brown"
+	},
+	"d79f6ee4-d85f-457f-87e7-30a06f839972": {
+		"color": "gray"
+	},
+	"d87eab5a-58e8-4888-9ee4-1b1c70f88c0d": {
+		"color": "hazel"
+	},
+	"d89a0114-ef01-4a4c-8008-513d7a8bbc5c": {
+		"color": "brown"
+	},
+	"d9bfb61e-14a7-4d89-99f5-c65780290655": {
+		"color": "amber"
+	},
+	"d9c81c8c-c3ce-41fe-b8c5-34f74e77c873": {
+		"color": "amber"
+	},
+	"da2df68c-6e12-4c66-bbfd-8030c9e23021": {
+		"color": "hazel"
+	},
+	"da55587d-6268-4b62-a9b3-6e30887585c9": {
+		"color": "brown"
+	},
+	"da740999-489d-4989-ba92-01fb0ca8cff5": {
+		"color": "amber"
+	},
+	"daaef057-c3a3-4295-b85b-d83fae1c8393": {
+		"color": "brown"
+	},
+	"dc60a33f-6b8c-4059-990d-812dfb1d914a": {
+		"color": "hazel"
+	},
+	"dc9453f7-1e75-43d1-86a6-5fc22c393a1c": {
+		"color": "hazel"
+	},
+	"dd7227f0-eef1-495a-8333-4432f02ddf19": {
+		"color": "amber"
+	},
+	"dda118e9-9c73-4631-8789-931cbf933743": {
+		"color": "hazel"
+	},
+	"deade08a-a139-49b4-bb96-05d826743c91": {
+		"color": "gray"
+	},
+	"df803e69-bf2a-4d92-988b-9931f88e5168": {
+		"color": "blue"
+	},
+	"df949bca-4962-4dc2-94f6-3a36f5bbf371": {
+		"color": "gray"
+	},
+	"df9fcff0-2b8d-433e-a1ef-08ef00b00153": {
+		"color": "amber"
+	},
+	"e07820c7-ce62-4d4e-af37-9440294434f9": {
+		"color": "brown"
+	},
+	"e0fcf90e-6f7b-4f3c-b479-5c90e1a183ed": {
+		"color": "blue"
+	},
+	"e2345ba1-9ea4-40ae-aedb-93cdee45a915": {
+		"color": "hazel"
+	},
+	"e2a5e37d-2bb2-4063-9072-ef4c844da623": {
+		"color": "gray"
+	},
+	"e2d49a17-4461-4946-a62c-90fad19ee1bb": {
+		"color": "gray"
+	},
+	"e3029201-5758-44df-b924-dfd6d9b498e3": {
+		"color": "green"
+	},
+	"e3102f24-c552-43ff-b659-a1fcd90ccb5b": {
+		"color": "brown"
+	},
+	"e32708af-d726-44bc-9b02-0c29727183de": {
+		"color": "green"
+	},
+	"e33f47a2-bea1-4c7c-82ee-b6efb5ab654b": {
+		"color": "gray"
+	},
+	"e446adf7-a5dc-49a7-8dae-4d72ec9a188f": {
+		"color": "green"
+	},
+	"e4a24427-4d72-483c-851f-695b6ffd2ce6": {
+		"color": "blue"
+	},
+	"e4cd5989-5783-442f-a897-d15c2e05e323": {
+		"color": "green"
+	},
+	"e517ce9b-c12b-4fd2-9ad2-4eb35f65bba3": {
+		"color": "amber"
+	},
+	"e6c49b37-02b0-4a35-9b17-bee2c21b228e": {
+		"color": "brown"
+	},
+	"e6c7f3c5-8901-4599-9012-f1c316f4a9af": {
+		"color": "blue"
+	},
+	"e6db3c8e-4571-4e73-a691-54e2c5c432f0": {
+		"color": "amber"
+	},
+	"e74ff346-0462-4091-8e43-4f5df02444bc": {
+		"color": "hazel"
+	},
+	"e75579f8-69c6-4e92-846c-97f2eadcd9bb": {
+		"color": "brown"
+	},
+	"e7c05e0f-a628-4657-b372-a29ff0c4c09a": {
+		"color": "blue"
+	},
+	"e85b459b-f278-4f37-abd1-e3621b7de53f": {
+		"color": "blue"
+	},
+	"e8814fd7-4354-4923-a560-ad460575adbc": {
+		"color": "blue"
+	},
+	"e8b0e100-c00c-4228-a5df-e578f402f813": {
+		"color": "green"
+	},
+	"e977a5ec-70e2-4343-8c93-0177b346fc86": {
+		"color": "brown"
+	},
+	"e993d76d-3355-4bbd-8c12-0aea113684a2": {
+		"color": "brown"
+	},
+	"e9a4a8fe-3d56-4f0d-8695-ab851f89c32c": {
+		"color": "gray"
+	},
+	"e9cf26d6-d9c3-4c09-b563-cffda2d0bef1": {
+		"color": "green"
+	},
+	"ea6f6679-c01b-48cd-b78a-84ceea30e439": {
+		"color": "hazel"
+	},
+	"ebdd956c-b763-490e-9afb-baed2c98a0ff": {
+		"color": "brown"
+	},
+	"ec233d5b-60a6-410c-984c-f2cc69838d15": {
+		"color": "brown"
+	},
+	"eca7917a-2c03-4eda-b193-67e0073afbd4": {
+		"color": "green"
+	},
+	"ecde7959-ebdd-49bc-9821-a6e2147fb962": {
+		"color": "amber"
+	},
+	"ed1040e6-8532-4884-9412-5ba5dbacbc4c": {
+		"color": "blue"
+	},
+	"eedb5ca2-3f13-47b6-9a0d-305e6c361f07": {
+		"color": "amber"
+	},
+	"f0a02d13-3c86-4f48-857a-c788a6172b05": {
+		"color": "brown"
+	},
+	"f1b92879-66e7-4b67-a99e-290ce7b457c9": {
+		"color": "brown"
+	},
+	"f1c3ef2d-a9e2-4ba1-8ffe-1abfd4b4bdb4": {
+		"color": "brown"
+	},
+	"f1c4e803-adea-4893-b09c-21ece592e826": {
+		"color": "blue"
+	},
+	"f201857d-cf50-4ade-abca-4bd7fa7f5780": {
+		"color": "brown"
+	},
+	"f22f60d3-8910-4386-99b7-db6e69f7ce7a": {
+		"color": "hazel"
+	},
+	"f24d89b0-47af-49cf-9b0b-4f3ca0317989": {
+		"color": "blue"
+	},
+	"f25d600e-c86c-4314-8113-00a392f7335a": {
+		"color": "amber"
+	},
+	"f2a42a45-fcf5-408e-9d9b-45f6e8c65ba8": {
+		"color": "hazel"
+	},
+	"f3859322-b0c8-4381-92f4-915d63593195": {
+		"color": "brown"
+	},
+	"f3a3a087-af40-4fff-aec2-2054c9da1c53": {
+		"color": "green"
+	},
+	"f3aab2ec-1aa2-4def-bcef-978917b9f083": {
+		"color": "gray"
+	},
+	"f3b21379-ad3e-4a89-8acd-bd7d913497ee": {
+		"color": "gray"
+	},
+	"f3f6eb36-fa02-4d71-b2f6-25a70efb3b87": {
+		"color": "amber"
+	},
+	"f4765403-276e-4f43-b9d1-3badb04ff99e": {
+		"color": "brown"
+	},
+	"f501b01a-bd81-4fbd-a91a-381fc3ec5b64": {
+		"color": "gray"
+	},
+	"f5eeec30-49bf-4b92-bc67-50a1fdf6dbea": {
+		"color": "brown"
+	},
+	"f64fa066-476b-486c-95c9-5667725ca2bd": {
+		"color": "blue"
+	},
+	"f6e3ae10-1c5a-464c-b649-540ed43e79aa": {
+		"color": "blue"
+	},
+	"f72cb7bd-f0d1-4190-be90-cdd2f918cf31": {
+		"color": "amber"
+	},
+	"f74cf209-5feb-45ef-8ccc-b40b440f9537": {
+		"color": "hazel"
+	},
+	"f7c6a662-b11e-4251-b5bc-a8364de70c59": {
+		"color": "brown"
+	},
+	"f8004eee-3d79-4cde-a366-ed071c914776": {
+		"color": "blue"
+	},
+	"f81468ca-5b91-4dd8-ba01-554d5b1f2aed": {
+		"color": "brown"
+	},
+	"f8524f4f-3188-4a46-93bb-4f0dfbd96e39": {
+		"color": "hazel"
+	},
+	"f852c4dd-f06f-4b4b-a916-7bcf0fe76cd1": {
+		"color": "hazel"
+	},
+	"f8cc0256-58f5-4876-9b86-2e27952be278": {
+		"color": "brown"
+	},
+	"f8cecc71-f1c8-4bb2-bbae-f45962ef94aa": {
+		"color": "brown"
+	},
+	"f93c1d5c-3480-4d46-8598-b578019de615": {
+		"color": "green"
+	},
+	"f9d32563-3f96-4f61-8767-c8929d2967c6": {
+		"color": "brown"
+	},
+	"fa44f00a-1ce6-423e-b1ce-e09eda3066c9": {
+		"color": "amber"
+	},
+	"fa86261b-1c32-4b53-817a-4572996bc5b7": {
+		"color": "blue"
+	},
+	"fae44022-3bf3-4c6b-9069-aae35200041f": {
+		"color": "amber"
+	},
+	"fb4adc5b-00a4-4507-af52-926f64de77c3": {
+		"color": "green"
+	},
+	"fb79bd87-705b-4503-a92a-f934fcf5669b": {
+		"color": "amber"
+	},
+	"fbd51643-3dcc-4841-9366-e6a32c1122e4": {
+		"color": "blue"
+	},
+	"fbe18a1c-b303-49bb-8401-2bcc8002d665": {
+		"color": "brown"
+	},
+	"fc167987-e9f0-408a-ad26-6df91d861c85": {
+		"color": "amber"
+	},
+	"fd08b15d-02a4-4e83-85a9-407fa7813afa": {
+		"color": "amber"
+	},
+	"fd2391dc-5cbb-41e3-9e5d-61f79e5b738d": {
+		"color": "brown"
+	},
+	"fd270209-cc53-44ac-9152-a8c4393c1795": {
+		"color": "brown"
+	},
+	"fd9fa60b-4201-46c3-895c-1a42ed54b197": {
+		"color": "brown"
+	},
+	"fdbcc79b-5ae6-4bb5-909a-1f57fb011f4a": {
+		"color": "brown"
+	},
+	"fdbfcfdd-c487-4d20-acd3-64b1094dce51": {
+		"color": "brown"
+	},
+	"fdfd9172-6919-41e0-bb1f-4411947741d8": {
+		"color": "amber"
+	},
+	"fe7e65a9-d8f5-499f-b735-e2043b4ac73b": {
+		"color": "blue"
+	},
+	"febce5a0-bd6d-4b25-822b-18006b97a0da": {
+		"color": "green"
+	},
+	"ff4a395f-9fe1-45c4-b7f2-cffb850dd3e6": {
+		"color": "brown"
+	},
+	"ff4e0908-6f98-4135-b913-c3ced8a4a002": {
+		"color": "amber"
+	},
+	"ffb60a9c-3d4e-4920-b85a-6ff54540ac27": {
+		"color": "gray"
+	},
+	"ffff9722-84ae-4963-9fef-dc9b2b8671f7": {
+		"color": "brown"
+	}
+}
